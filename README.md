@@ -33,26 +33,7 @@ Download and unzip from this link: https://drive.google.com/file/d/1UOBNhuaKRcG3
 - Move "depth_models" inside "FILM_model/models/depth/depth_models"
 - Move "maskrcnn_alfworld" inside " FILM_model/models/segmentation" 
 
-#### Step 3 - Docker pull
-```
-docker pull symin95/teach_without_api:latest
-```
-https://hub.docker.com/repository/docker/symin95/teach_without_api/general
 
-#### Step 4 - Modify the "volume" lines in "docker_run_3.8.py"
-![Screen Shot 2023-04-04 at 3 41 02 PM](https://user-images.githubusercontent.com/77866067/229902024-fdba0325-4e7a-4a83-9454-77e2304ea2f2.png)
-
-Modify these lines so that they contain the directory of this repo and the teach data repo
-
-#### Step 5 - Run docker, turn on xserver, etc
-```
-python docker_run_3.8.py --headless -i 79593680304a -c c01 #Run docker
-cd /home/soyeonm/TEACH_FILM_for_jhc #go to the directory of this repo inside docker
-TMUX=tmux #Open tmux and turn on xserver
-tmux
-Xorg -noreset +extension GLX +extension RANDR +extension RENDER :0
-#Get out of tmux
-export DISPLAY=:0
 ```
 #### Step 6 - Extra installations
 ```
@@ -61,23 +42,19 @@ pip install transformers==4.9.2 && pip install -e . && pip install torch==1.8.0+
 ```
 
 #### Step 6 - Run command 
-Set the variables as in the original [teach repo](https://github.com/soyeonm/TEACH_FILM_for_jhc#evaluation)
+Set the variables as in the original (if you want to run pred model in TfD)
 ```
-export DATA_DIR=/home/soyeonm/TEACH_DATA
-export OUTPUT_DIR=/home/soyeonm/TEACH_FILM_for_jhc/output
-export IMAGE_DIR=/home/soyeonm/TEACH_FILM_for_jhc/img_dir
-export METRICS_FILE=/home/soyeonm/TEACH_FILM_for_jhc/output/metics
+export DATA_DIR=/home/pred/TfD/TEACH_DATA
+export OUTPUT_DIR=/home/pred/TfD/output
+export IMAGE_DIR=/home/pred/TfD/img_dir
+export METRICS_FILE=/home/pred/TfD/output/metics
 ```
 
 Run command 
 
 ```
-python FILM_model/pre_download_bert.py
-```
-```
 CUDA_VISIBLE_DEVICES=0 python src/teach/cli/inference.py --data_dir $DATA_DIR   --output_dir $OUTPUT_DIR   --split valid_seen  --metrics_file $METRICS_FILE  --model_module teach.inference.FILM_teach_model --model_class FILMModel  --images_dir $IMAGE_DIR --set_dn  edh_vs_0_304 --map_pred_threshold 40 --max_episode_length 500 --cat_pred_threshold 10  --use_bert --start_idx 0 --end_idx 304
 ```
-"FILM_model/pre_download_bert.py" download bert configs and model weights (you only need to do it once).
 
 #### Step 7 - Check results 
 
@@ -91,11 +68,11 @@ Calculate success rate:
 This code can run both "edh" and "tfd" tasks.
 Default is EDH. To run TfD, put a "--tfd" flag. 
 
-#### EDH
+####  EDH in PRED 
 Example EDH Command:
 
 ```
-CUDA_VISIBLE_DEVICES=0 python src/teach/cli/inference.py --data_dir $DATA_DIR   --output_dir $OUTPUT_DIR   --split valid_seen  --metrics_file $METRICS_FILE  --model_module teach.inference.FILM_teach_model --model_class FILMModel  --images_dir $IMAGE_DIR --set_dn  may24_edh_vs_0_304 --map_pred_threshold 40 --max_episode_length 500 --cat_pred_threshold 10  --use_bert --start_idx 0 --end_idx 304
+CUDA_VISIBLE_DEVICES=0 python pred/EDH/src/teach/cli/inference.py --EDH --data_dir $DATA_DIR   --output_dir $OUTPUT_DIR   --split valid_seen  --metrics_file $METRICS_FILE  --model_module teach.inference.FILM_teach_model --model_class FILMModel  --images_dir $IMAGE_DIR --set_dn  may24_edh_vs_0_304 --map_pred_threshold 40 --max_episode_length 500 --cat_pred_threshold 10  --use_bert --start_idx 0 --end_idx 304
 ```
 
 Flags:
@@ -103,13 +80,23 @@ Flags:
 - start_idx: start of the task index
 - end_idx: end of the task index
 
-#### TfD
+#### TfD in PRED
 Example TfD Command:
 
 ```
-CUDA_VISIBLE_DEVICES=0 python src/teach/cli/inference.py --data_dir $DATA_DIR   --output_dir $OUTPUT_DIR   --split valid_unseen  --metrics_file $METRICS_FILE  --model_module teach.inference.FILM_teach_model --model_class FILMModel  --images_dir $IMAGE_DIR --set_dn tfd_vus_0_77 --map_pred_threshold 40 --max_episode_length 500 --cat_pred_threshold 10 --tfd --use_bert --start_idx 0 --end_idx 77
+CUDA_VISIBLE_DEVICES=0 python pred/TfD/src/teach/cli/inference.py --tfd --data_dir $DATA_DIR   --output_dir $OUTPUT_DIR   --split valid_unseen  --metrics_file $METRICS_FILE  --model_module teach.inference.FILM_teach_model --model_class FILMModel  --images_dir $IMAGE_DIR --set_dn tfd_vus_0_77 --map_pred_threshold 40 --max_episode_length 500 --cat_pred_threshold 10 --tfd --use_bert --start_idx 0 --end_idx 77
 ```
 Default is EDH. To run TfD, put a "--tfd" flag. 
+
+
+#### TfD in PRED+
+Example TfD Command:
+
+```
+CUDA_VISIBLE_DEVICES=0 python pred+/TfD/src/teach/cli/inference.py --tfd --data_dir $DATA_DIR   --output_dir $OUTPUT_DIR   --split valid_unseen  --metrics_file $METRICS_FILE  --model_module teach.inference.FILM_teach_model --model_class FILMModel  --images_dir $IMAGE_DIR --set_dn tfd_vus_0_77 --map_pred_threshold 40 --max_episode_length 500 --cat_pred_threshold 10 --tfd --use_bert --start_idx 0 --end_idx 77
+```
+Default is EDH. To run TfD, put a "--tfd" flag. 
+
 
 
 ## License
