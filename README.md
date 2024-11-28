@@ -34,14 +34,13 @@ Download and unzip from this link: https://drive.google.com/file/d/1UOBNhuaKRcG3
 - Move "maskrcnn_alfworld" inside " FILM_model/models/segmentation" 
 
 
-```
-#### Step 6 - Extra installations
+#### Step 3 - Extra installations
 ```
 pip install transformers==4.9.2 && pip install -e . && pip install torch==1.8.0+cu111 torchvision==0.9.0+cu111 torchaudio==0.8.0 -f https://download.pytorch.org/whl/torch_stable.html && python -m pip install -U detectron2 -f \
   https://dl.fbaipublicfiles.com/detectron2/wheels/cu111/torch1.8/index.html
 ```
 
-#### Step 6 - Run command 
+#### Step 4 - Run command 
 Set the variables as in the original (if you want to run pred model in TfD)
 ```
 export DATA_DIR=/home/pred/TfD/TEACH_DATA
@@ -56,7 +55,7 @@ Run command
 CUDA_VISIBLE_DEVICES=0 python src/teach/cli/inference.py --data_dir $DATA_DIR   --output_dir $OUTPUT_DIR   --split valid_seen  --metrics_file $METRICS_FILE  --model_module teach.inference.FILM_teach_model --model_class FILMModel  --images_dir $IMAGE_DIR --set_dn  edh_vs_0_304 --map_pred_threshold 40 --max_episode_length 500 --cat_pred_threshold 10  --use_bert --start_idx 0 --end_idx 304
 ```
 
-#### Step 7 - Check results 
+#### Step 5 - Check results 
 
 Check results in "results/analyze_recs". Pickles are generated for each command. 
 
