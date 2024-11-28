@@ -37,7 +37,7 @@ Download and unzip from this link: https://drive.google.com/file/d/1UOBNhuaKRcG3
 #### Step 3 - Installations
 ```
 conda create pred 
-conda activtae pred
+conda activate pred
 pip install -r requirement.txt
 ```
 
