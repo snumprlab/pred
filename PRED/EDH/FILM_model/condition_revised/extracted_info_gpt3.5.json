@@ -1,0 +1,5666 @@
+{
+    "73fb0ed97520b89e_e8b3": {
+        "Towel": {
+            "location": [
+                "Table",
+                "Desk",
+                "Ottoman"
+            ],
+            "quantity": 3
+        }
+    },
+    "45d5698613e90f24_1b91": {
+        "Shelf": {
+            "location": "Cabinet",
+            "quantity": 1
+        },
+        "SaltShaker": {
+            "location": "Table",
+            "quantity": 1
+        }
+    },
+    "99193efbc05bc4b3_215f": {
+        "Television": {
+            "location": [
+                "Chair",
+                "DiningTable"
+            ],
+            "quantity": 2
+        }
+    },
+    "49baad322285fdbb_0f0d": {
+        "Television": {
+            "location": [
+                "Furniture",
+                "Table",
+                "Box"
+            ],
+            "quantity": 2
+        }
+    },
+    "742907223b1298cd_9ca2": {
+        "RemoteControl": {
+            "location": [
+                "Furniture",
+                "Furniture",
+                "Drawer"
+            ],
+            "quantity": 2
+        }
+    },
+    "6f65847d26358f91_e0bd": {
+        "Clock": {
+            "location": [
+                "Drawer",
+                "Chair"
+            ],
+            "quantity": 2
+        }
+    },
+    "9460eb7ed042803a_489a": {
+        "RemoteControl": {
+            "location": [
+                "Furniture",
+                "Chair"
+            ],
+            "quantity": 2
+        }
+    },
+    "91b930814d1ad228_2df0": {
+        "Newspaper": {
+            "location": "arm chair",
+            "quantity": 1
+        }
+    },
+    "5fa837a67361b8ce_d76a": {
+        "Cup": {
+            "location": "Cabinet",
+            "quantity": 1,
+            "Cleaned": false
+        }
+    },
+    "de134e044f715c4f_2817": {
+        "RemoteControl": {
+            "location": [
+                "Chair",
+                "SideTable"
+            ],
+            "quantity": 2
+        },
+        "Basket": {
+            "location": "X"
+        }
+    },
+    "7f8000bdc9a6df46_e4c4": {
+        "Clock": {
+            "location": [
+                "Table",
+                "Chair",
+                "GarbageCan"
+            ],
+            "quantity": 3
+        }
+    },
+    "338ec9cc2405a6df_9349": {
+        "PaperTowelRoll": {
+            "location": [
+                "DiningTable",
+                "Chair"
+            ],
+            "quantity": 2
+        }
+    },
+    "5fd34b364fc4561f_e54b": {
+        "Mug": {
+            "location": [
+                "DiningTable",
+                "Fridge",
+                "StoveBurner",
+                "Toaster"
+            ],
+            "quantity": 4,
+            "Cleaned": false
+        }
+    },
+    "61a4751c25243f6e_3d64": {
+        "Television": {
+            "location": "box on coffee table",
+            "quantity": 1
+        }
+    },
+    "326a7f3d3c82802a_15c4": {
+        "Television": {
+            "location": "dresser",
+            "quantity": 2
+        }
+    },
+    "ca0b3865095fb056_d324": {
+        "Towel": {
+            "location": [
+                "Chair",
+                "Television"
+            ],
+            "quantity": 2
+        }
+    },
+    "d38b14b8ad1803d4_17f8": {
+        "SaltShaker": {
+            "location": [
+                "Cabinet",
+                "Cabinet",
+                "Cabinet"
+            ],
+            "quantity": 3,
+            "quantity_of_slices": "X"
+        }
+    },
+    "c3dda4232d2c6926_2184": {
+        "Shelf": {
+            "location": [
+                "Cabinet",
+                "Fridge",
+                "Appliance"
+            ],
+            "quantity": 2
+        }
+    },
+    "1f3729c7d90e4976_6ac9": {
+        "Television": {
+            "location": [
+                "Table",
+                "Furniture"
+            ],
+            "quantity": 3
+        }
+    },
+    "fca2df65168229c0_bb02": {
+        "Watch": {
+            "location": [
+                "Furniture",
+                "Sofa"
+            ],
+            "quantity": 2
+        }
+    },
+    "bf6d6520015f26ea_50c9": {
+        "PaperTowelRoll": {
+            "location": [
+                "Sofa"
+            ],
+            "quantity": 3
+        },
+        "DiningTable": {
+            "location": [
+                "Table"
+            ]
+        }
+    },
+    "0ffe9e170c5e7c8b_9118": {
+        "Towel": {
+            "location": "top of the toilet",
+            "quantity": 1,
+            "Cleaned": false
+        }
+    },
+    "12541129ceafe873_d2d8": {
+        "Clock": {
+            "location": [
+                "Furniture",
+                "Chair"
+            ],
+            "quantity": 3
+        },
+        "Desk": {
+            "location": "X"
+        }
+    },
+    "688cefb695d15d5a_93b8": {
+        "Bed": {
+            "location": [
+                "Chair"
+            ],
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        }
+    },
+    "b32df1dd6e121adb_0c9f": {
+        "Towel": {
+            "location": "BathTub",
+            "quantity": "X",
+            "Cleaned": false
+        }
+    },
+    "a2517febe5770439_0513": {
+        "Bed": {
+            "location": [
+                "Furniture"
+            ],
+            "quantity": 1
+        }
+    },
+    "a5adc4d1f08835ea_ece1": {
+        "Television": {
+            "location": [
+                "Footstool",
+                "DiningTable"
+            ],
+            "quantity": 1,
+            "Cleaned": false
+        }
+    },
+    "ed3375d8971e1a91_2b83": {
+        "Clock": {
+            "location": [
+                "Furniture",
+                "Chair",
+                "Television"
+            ],
+            "quantity": 2
+        }
+    },
+    "3f117593619d88bd_94db": {
+        "Apple": {
+            "location": [
+                "Table",
+                "Furniture",
+                "StoveBurner",
+                "Appliance",
+                "Cabinet",
+                "Cabinet",
+                "StoveBurner",
+                "Cabinet"
+            ],
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        }
+    },
+    "b0df801e85335f62_eb59": {
+        "Utensil": {
+            "location": [
+                "Bathroom"
+            ],
+            "quantity": 4
+        }
+    },
+    "1fe53640e664654a_f63d": {
+        "SaltShaker": {
+            "location": [
+                "Cabinet",
+                "Appliance"
+            ],
+            "quantity": 2
+        }
+    },
+    "deba635b71b8ffd0_76d8": {
+        "Mug": {
+            "location": [
+                "Shelf"
+            ],
+            "quantity": 2
+        }
+    },
+    "ea075a286d809d08_01fc": {
+        "Fruit": {
+            "location": [
+                "Cabinet",
+                "Appliance"
+            ],
+            "quantity": 2,
+            "quantity_of_slices": "X"
+        }
+    },
+    "58e15b751d6b9c3a_692f": {
+        "Pen": {
+            "location": "desk",
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        }
+    },
+    "102a3c062caa480b_476d": {
+        "Pen": {
+            "location": "black bin",
+            "quantity": 1
+        },
+        "Chair": {
+            "location": "X",
+            "quantity": "X"
+        }
+    },
+    "1fbb12ee67da0fd5_3106": {
+        "Sponge": {
+            "location": [
+                "CounterTop",
+                "Chair"
+            ],
+            "quantity": 2
+        }
+    },
+    "8bae25f8140ae442_17e6": {
+        "Vegetable": {
+            "location": [
+                "Cabinet",
+                "CounterTop"
+            ],
+            "quantity": 3,
+            "quantity_of_slices": "X"
+        }
+    },
+    "de0a46f6e4463f0a_13f8": {
+        "Desk": {
+            "location": "bed",
+            "quantity": "all",
+            "Cleaned": false
+        }
+    },
+    "a96ecaaab35df342_9e00": {
+        "Bread": {
+            "location": "fridge",
+            "quantity": 2,
+            "quantity_of_slices": "X"
+        }
+    },
+    "c062b518366ad411": {
+        "Utensil": {
+            "location": "top drawer",
+            "Cleaned": false
+        },
+        "Sink": {
+            "location": "X"
+        }
+    },
+    "ab92949b1ed12dff_ad77": {
+        "Bed": {
+            "location": "Armchair",
+            "quantity": 2
+        }
+    },
+    "cff3f445ee91e6a7_ecab": {
+        "Potato": {
+            "location": [
+                "Cabinet",
+                "StoveBurner"
+            ],
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        }
+    },
+    "193f64286be0ba2c_0e02": {
+        "lettuce": {
+            "location": "X",
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        },
+        "tomato": {
+            "location": "X",
+            "quantity": "X",
+            "quantity_of_slices": 2
+        },
+        "knife": {
+            "location": "SideTable",
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        },
+        "plate": {
+            "location": "X",
+            "quantity": "X",
+            "quantity_of_slices": "X",
+            "Cleaned": true
+        },
+        "mug": {
+            "location": "X",
+            "quantity": "X",
+            "quantity_of_slices": "X",
+            "Cleaned": false
+        }
+    },
+    "25dcc2ea772ccc22_4423": {
+        "tomato": {
+            "location": "StoveBurner",
+            "quantity": 1,
+            "quantity_of_slices": 1
+        },
+        "knife": {
+            "location": "Fridge",
+            "quantity": 1
+        },
+        "potato": {
+            "location": "Sink",
+            "quantity": 2,
+            "quantity_of_slices": 2
+        },
+        "plate": {
+            "location": "Fridge",
+            "quantity": "X",
+            "Cleaned": false
+        }
+    },
+    "1e884599d9e8ac1f_a628": {
+        "lettuce": {
+            "location": "Cabinet",
+            "quantity": 1,
+            "quantity_of_slices": 1
+        },
+        "tomato": {
+            "location": "StoveBurner",
+            "quantity": 2,
+            "quantity_of_slices": 2
+        },
+        "salad": {
+            "location": "X",
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        }
+    },
+    "5765423f0e89986b_2732": {
+        "lettuce": {
+            "location": "Fridge",
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        },
+        "knife": {
+            "location": "Sink",
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        },
+        "potato": {
+            "location": "X",
+            "quantity": "X",
+            "quantity_of_slices": "2"
+        },
+        "microwave": {
+            "location": "Sink",
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        },
+        "stove": {
+            "location": "X",
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        },
+        "plate": {
+            "location": "Cabinet",
+            "quantity": "X",
+            "quantity_of_slices": "X",
+            "Cleaned": true
+        }
+    },
+    "8f059a8aa3b90765_1100": {
+        "knife": {
+            "location": "Cabinet"
+        },
+        "microwave": {
+            "location": "Toaster"
+        },
+        "lettuce": {
+            "quantity_of_slices": "X"
+        },
+        "potato": {
+            "quantity_of_slices": 2
+        },
+        "plate": {
+            "location": "Cabinet",
+            "Cleaned": true
+        }
+    },
+    "c5af5d2d4daba0b3_7b36": {
+        "lettuce": {
+            "location": "X",
+            "quantity": 1,
+            "quantity_of_slices": 1
+        },
+        "tomato": {
+            "location": "X",
+            "quantity": 2,
+            "quantity_of_slices": 2
+        },
+        "potato": {
+            "location": "X",
+            "quantity": 1,
+            "quantity_of_slices": 1
+        },
+        "plate": {
+            "location": "X",
+            "Cleaned": true
+        }
+    },
+    "1c2df1e8ff105c52_6ac7": {
+        "lettuce": {
+            "location": "X",
+            "quantity": 2,
+            "quantity_of_slices": 2
+        },
+        "knife": {
+            "location": "ShelvingUnit",
+            "quantity": 1,
+            "Cleaned": false
+        },
+        "tomato": {
+            "location": "CounterTop",
+            "quantity": 1,
+            "quantity_of_slices": 1
+        },
+        "potato": {
+            "location": "CounterTop",
+            "quantity": 1,
+            "quantity_of_slices": 1
+        },
+        "plate": {
+            "location": "Fridge",
+            "quantity": 1,
+            "Cleaned": true
+        }
+    },
+    "66957a984ae5a714_f28d": {
+        "lettuce": {
+            "location": "Cabinet",
+            "quantity": 1,
+            "quantity_of_slices": 1
+        },
+        "knife": {
+            "location": "Toaster",
+            "quantity": 1,
+            "quantity_of_slices": "X"
+        },
+        "tomato": {
+            "location": "Cabinet",
+            "quantity": 2,
+            "quantity_of_slices": "X"
+        },
+        "potato": {
+            "location": "Fridge",
+            "quantity": 1,
+            "quantity_of_slices": "X"
+        },
+        "plate": {
+            "location": "Cabinet",
+            "quantity": 1,
+            "quantity_of_slices": "X",
+            "Cleaned": true
+        }
+    },
+    "e2d23874ea3c73b1_2f3e": {
+        "plate": {
+            "location": "X",
+            "Cleaned": true
+        },
+        "tomato": {
+            "location": "X",
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        },
+        "cooked potato": {
+            "location": "X",
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        },
+        "lettuce": {
+            "location": "X",
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        }
+    },
+    "38e166ac4f59b7a7_cf45": {
+        "lettuce": {
+            "location": "X",
+            "quantity": 1,
+            "quantity_of_slices": 1
+        },
+        "tomato": {
+            "location": "X",
+            "quantity": 2,
+            "quantity_of_slices": 2
+        },
+        "plate": {
+            "location": "X",
+            "Cleaned": false
+        },
+        "mug": {
+            "location": "X",
+            "Cleaned": false
+        },
+        "knife": {
+            "location": "Cabinet"
+        }
+    },
+    "ec152b903d248315_8904": {
+        "lettuce": {
+            "location": "Fridge",
+            "quantity": 2,
+            "quantity_of_slices": 2
+        },
+        "potato": {
+            "location": "Fridge",
+            "quantity": 1,
+            "quantity_of_slices": 1
+        },
+        "plate": {
+            "location": "Stool",
+            "Cleaned": true
+        },
+        "mug": {
+            "location": "X",
+            "Cleaned": false
+        }
+    },
+    "3b305710ae4ff2c1_d082": {
+        "plate": {
+            "location": "Cabinet",
+            "Cleaned": true
+        },
+        "lettuce": {
+            "location": "Fridge",
+            "quantity": 1,
+            "quantity_of_slices": 1
+        },
+        "potato": {
+            "quantity": 2,
+            "quantity_of_slices": 2,
+            "cooked": "T"
+        },
+        "tomato": {
+            "location": "StoveBurner",
+            "quantity": 1,
+            "quantity_of_slices": 1
+        }
+    },
+    "d8ae4bdf08ad1cab_4dbf": {
+        "tomato": {
+            "location": "Drawer",
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        },
+        "knife": {
+            "location": "Drawer",
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        },
+        "potato": {
+            "location": "CounterTop",
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        },
+        "plate": {
+            "location": "X",
+            "quantity": "X",
+            "quantity_of_slices": "X",
+            "Cleaned": true
+        },
+        "mug": {
+            "location": "X",
+            "quantity": "X",
+            "quantity_of_slices": "X",
+            "Cleaned": false
+        }
+    },
+    "7f5bf828ea7530fc_dc63": {
+        "tomato": {
+            "location": "X",
+            "quantity": 2,
+            "quantity_of_slices": 2
+        },
+        "lettuce": {
+            "location": "X",
+            "quantity": 1,
+            "quantity_of_slices": 1
+        },
+        "knife": {
+            "location": "X",
+            "quantity": 1
+        },
+        "plate": {
+            "location": "Sink",
+            "quantity": 1,
+            "Cleaned": true
+        }
+    },
+    "46f90eabf94d2a39_9c34": {
+        "tomato": {
+            "location": "X",
+            "quantity": "1",
+            "quantity_of_slices": "1"
+        },
+        "knife": {
+            "location": "DiningTable",
+            "quantity": "1",
+            "Cleaned": false
+        },
+        "potato": {
+            "location": "StoveBurner",
+            "quantity": "1",
+            "quantity_of_slices": "2"
+        },
+        "plate": {
+            "location": "Fridge",
+            "quantity": "1",
+            "Cleaned": true
+        }
+    },
+    "b119b9170356404c_fa28": {
+        "lettuce": {
+            "location": "Fridge",
+            "quantity": "X",
+            "quantity_of_slices": "1"
+        },
+        "tomatoes": {
+            "location": "X",
+            "quantity": "X",
+            "quantity_of_slices": "3"
+        },
+        "potato": {
+            "location": "X",
+            "quantity": "X",
+            "quantity_of_slices": "2"
+        },
+        "plate": {
+            "location": "X",
+            "Cleaned": true
+        },
+        "mug": {
+            "location": "X",
+            "Cleaned": false
+        }
+    },
+    "7f6251df223b21c8_aadf": {
+        "lettuce": {
+            "location": "CounterTop",
+            "quantity": 2,
+            "quantity_of_slices": 2
+        },
+        "potato": {
+            "location": "X",
+            "quantity": 1,
+            "quantity_of_slices": 1
+        },
+        "plate": {
+            "location": "Sink",
+            "quantity": 1,
+            "Cleaned": false
+        },
+        "knife": {
+            "location": "Fridge",
+            "quantity": 1
+        }
+    },
+    "de1809a7ee788e70_b424": {
+        "lettuce": {
+            "location": "Pot",
+            "quantity": "1",
+            "quantity_of_slices": "X"
+        },
+        "tomato": {
+            "location": "X",
+            "quantity": "2",
+            "quantity_of_slices": "X"
+        },
+        "potato": {
+            "location": "Cabinet",
+            "quantity": "1",
+            "quantity_of_slices": "1"
+        },
+        "plate": {
+            "location": "StoveBurner",
+            "quantity": "1",
+            "quantity_of_slices": "X",
+            "Cleaned": false
+        },
+        "knife": {
+            "location": "TableTopDecor",
+            "quantity": "1",
+            "quantity_of_slices": "X"
+        }
+    },
+    "85a41ea810cd6c0b_fe51": {
+        "lettuce": {
+            "location": "X",
+            "quantity": 2,
+            "quantity_of_slices": 2
+        },
+        "tomato": {
+            "location": "X",
+            "quantity": 1,
+            "quantity_of_slices": 1
+        },
+        "plate": {
+            "location": "Fridge",
+            "quantity": 1,
+            "Cleaned": true
+        },
+        "mug": {
+            "location": "X",
+            "quantity": "X",
+            "Cleaned": false
+        },
+        "potato": {
+            "location": "X",
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        }
+    },
+    "4e88e46c6584bd85_21d2": {
+        "lettuce": {
+            "location": "Fridge",
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        },
+        "tomato": {
+            "location": "Sink",
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        },
+        "knife": {
+            "location": "Shelf",
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        },
+        "plate": {
+            "location": "Chair",
+            "quantity": "X",
+            "quantity_of_slices": "X",
+            "Cleaned": false
+        }
+    },
+    "140e54aadad74d20_222f": {
+        "lettuce": {
+            "location": "X",
+            "quantity": 2,
+            "quantity_of_slices": "X"
+        },
+        "tomato": {
+            "location": "CoffeeMachine",
+            "quantity": 1,
+            "quantity_of_slices": 1
+        },
+        "potato": {
+            "location": "Microwave",
+            "quantity": 1,
+            "quantity_of_slices": 1
+        },
+        "knife": {
+            "location": "ShelvingUnit",
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        },
+        "plate": {
+            "location": "Shelf",
+            "quantity": 1,
+            "quantity_of_slices": "X",
+            "Cleaned": true
+        }
+    },
+    "3cc94d435588751b_fa04": {
+        "tomato": {
+            "location": "X",
+            "quantity": 2,
+            "quantity_of_slices": 2
+        },
+        "potato": {
+            "location": "Chair",
+            "quantity": 1,
+            "quantity_of_slices": 1
+        },
+        "plate": {
+            "Cleaned": true
+        },
+        "mug": {
+            "Cleaned": false
+        }
+    },
+    "dc506a8ff8638954_1a5a": {
+        "tomato": {
+            "location": "X",
+            "quantity": "X",
+            "quantity_of_slices": "1"
+        },
+        "potato": {
+            "location": "Cabinet",
+            "quantity": "X",
+            "quantity_of_slices": "1"
+        },
+        "knife": {
+            "location": "Fridge",
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        },
+        "plate": {
+            "location": "X",
+            "quantity": "X",
+            "quantity_of_slices": "X",
+            "Cleaned": true
+        },
+        "mug": {
+            "location": "X",
+            "quantity": "X",
+            "quantity_of_slices": "X",
+            "Cleaned": false
+        }
+    },
+    "555c981b1ecc6c8a_7c01": {
+        "lettuce": {
+            "location": "Fridge",
+            "quantity": "1",
+            "quantity_of_slices": "1"
+        },
+        "tomato": {
+            "location": "X",
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        },
+        "potato": {
+            "location": "Fridge",
+            "quantity": "1",
+            "quantity_of_slices": "2"
+        },
+        "plate": {
+            "location": "Sink",
+            "quantity": "1",
+            "Cleaned": false
+        },
+        "mug": {
+            "location": "X",
+            "quantity": "X",
+            "Cleaned": false
+        },
+        "knife": {
+            "location": "Fridge",
+            "quantity": "1"
+        }
+    },
+    "78ae8aaf1a80a972_6371": {
+        "lettuce": {
+            "location": "Plate",
+            "quantity": 1,
+            "quantity_of_slices": 1,
+            "Cleaned": false
+        },
+        "potato": {
+            "location": "Plate",
+            "quantity": 2,
+            "quantity_of_slices": 2,
+            "Cleaned": true
+        },
+        "tomato": {
+            "location": "Plate",
+            "quantity": 1,
+            "quantity_of_slices": 1,
+            "Cleaned": false
+        }
+    },
+    "0d1a67f82b3b5854_d74d": {
+        "potato": {
+            "location": "Chair",
+            "quantity": "1",
+            "quantity_of_slices": "1"
+        },
+        "tomato": {
+            "location": "GarbageCan",
+            "quantity": "2",
+            "quantity_of_slices": "2"
+        },
+        "plate": {
+            "location": "X",
+            "quantity": "1",
+            "quantity_of_slices": "X",
+            "Cleaned": true
+        },
+        "cooked potato": {
+            "location": "X",
+            "quantity": "1",
+            "quantity_of_slices": "1"
+        }
+    },
+    "f0f408b728183c76_09d4": {
+        "knife": {
+            "location": "Fridge"
+        },
+        "lettuce": {
+            "location": "Fridge",
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        },
+        "tomato": {
+            "location": "GarbageCan",
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        },
+        "potato": {
+            "location": "Drawer",
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        },
+        "plate": {
+            "location": "Cabinet",
+            "Cleaned": true
+        }
+    },
+    "2c3e87d21b28e516_63ec": {
+        "lettuce": {
+            "location": "GarbageCan",
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        },
+        "tomato": {
+            "location": "Cabinet",
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        },
+        "potato": {
+            "location": "Chair",
+            "quantity": "2",
+            "quantity_of_slices": "2"
+        },
+        "knife": {
+            "location": "Fridge",
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        },
+        "plate": {
+            "location": "Fridge",
+            "quantity": "1",
+            "quantity_of_slices": "X",
+            "Cleaned": false
+        }
+    },
+    "1ac223bed30ab590_518e": {
+        "lettuce": {
+            "location": "Fridge",
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        },
+        "knife": {
+            "location": "Toaster",
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        },
+        "tomato": {
+            "location": "Cabinet",
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        },
+        "potato": {
+            "location": "Sink",
+            "quantity": "X",
+            "quantity_of_slices": "2"
+        },
+        "plate": {
+            "location": "Toaster",
+            "quantity": "X",
+            "quantity_of_slices": "X",
+            "Cleaned": true
+        },
+        "mug": {
+            "location": "X",
+            "quantity": "X",
+            "quantity_of_slices": "X",
+            "Cleaned": false
+        }
+    },
+    "7b982609299f5d94_d728": {
+        "lettuce": {
+            "location": "Toaster",
+            "quantity": 1,
+            "quantity_of_slices": 1
+        },
+        "tomato": {
+            "location": "CounterTop",
+            "quantity": 2,
+            "quantity_of_slices": 0
+        },
+        "plate": {
+            "location": "CounterTop",
+            "quantity": 1,
+            "Cleaned": false
+        },
+        "mug": {
+            "location": "X",
+            "quantity": "X",
+            "Cleaned": false
+        },
+        "knife": {
+            "location": "Microwave",
+            "quantity": 1,
+            "Cleaned": false
+        },
+        "toaster": {
+            "location": "X",
+            "quantity": "X",
+            "Cleaned": false
+        },
+        "microwave": {
+            "location": "X",
+            "quantity": "X",
+            "Cleaned": false
+        },
+        "trash": {
+            "location": "X",
+            "quantity": "X",
+            "Cleaned": false
+        }
+    },
+    "ed067f01300e847f_9606": {
+        "tomato": {
+            "location": "Sink",
+            "quantity": 2,
+            "quantity_of_slices": 2
+        },
+        "knife": {
+            "location": "Shelf"
+        },
+        "plate": {
+            "Cleaned": true
+        },
+        "potato": {
+            "location": "Fridge",
+            "quantity": 1,
+            "quantity_of_slices": 1
+        },
+        "pan": {
+            "location": "CounterTop"
+        }
+    },
+    "af51d39b23e95018_8b5d": {
+        "lettuce": {
+            "location": "Fridge",
+            "quantity": "X",
+            "quantity_of_slices": 2
+        },
+        "knife": {
+            "location": "Sink",
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        },
+        "tomato": {
+            "location": "StoveBurner",
+            "quantity": "X",
+            "quantity_of_slices": 1
+        },
+        "plate": {
+            "location": "Toaster",
+            "quantity": "X",
+            "quantity_of_slices": "X",
+            "Cleaned": true
+        }
+    },
+    "e860a105f7c30a29_64c8": {
+        "lettuce": {
+            "location": "X",
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        },
+        "potato": {
+            "location": "X",
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        },
+        "plate": {
+            "location": "Cabinet",
+            "quantity": "2",
+            "quantity_of_slices": "X",
+            "Cleaned": false
+        },
+        "knife": {
+            "location": "Cabinet",
+            "quantity": "1",
+            "quantity_of_slices": "X"
+        },
+        "coffee maker": {
+            "location": "X",
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        }
+    },
+    "b36a8d73976068a3_6afd": {
+        "lettuce": {
+            "location": "X",
+            "quantity": 1,
+            "quantity_of_slices": 1
+        },
+        "tomato": {
+            "location": "X",
+            "quantity": 1,
+            "quantity_of_slices": 1
+        },
+        "potato": {
+            "location": "Chair",
+            "quantity": 2,
+            "quantity_of_slices": 2
+        },
+        "knife": {
+            "location": "Fridge",
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        },
+        "plate": {
+            "location": "X",
+            "quantity": 1,
+            "quantity_of_slices": "X",
+            "Cleaned": true
+        },
+        "mug": {
+            "location": "X",
+            "quantity": "X",
+            "quantity_of_slices": "X",
+            "Cleaned": false
+        }
+    },
+    "be87d87f3c1d8ece_6082": {
+        "lettuce": {
+            "location": "Fridge",
+            "quantity": 1,
+            "quantity_of_slices": 1
+        },
+        "tomato": {
+            "location": "X",
+            "quantity": 1,
+            "quantity_of_slices": 2
+        },
+        "potato": {
+            "location": "CoffeeMachine",
+            "quantity": 1,
+            "quantity_of_slices": 1
+        },
+        "plate": {
+            "location": "Fridge",
+            "quantity": 1,
+            "Cleaned": true
+        }
+    },
+    "61e8f5910474b00b_53e6": {
+        "lettuce": {
+            "location": "X",
+            "quantity": 2,
+            "quantity_of_slices": 2
+        },
+        "tomato": {
+            "location": "X",
+            "quantity": 1,
+            "quantity_of_slices": 1
+        },
+        "knife": {
+            "location": "GarbageCan",
+            "quantity": 1,
+            "Cleaned": false
+        },
+        "plate": {
+            "location": "X",
+            "quantity": 1,
+            "Cleaned": true
+        }
+    },
+    "53c031a953194d07_d936": {
+        "lettuce": {
+            "location": "Chair",
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        },
+        "knife": {
+            "location": "Sink",
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        },
+        "potato": {
+            "location": "ShelvingUnit",
+            "quantity": "X",
+            "quantity_of_slices": "1"
+        },
+        "plate": {
+            "location": "Cabinet",
+            "quantity": "X",
+            "quantity_of_slices": "X",
+            "Cleaned": true
+        },
+        "microwave": {
+            "location": "X",
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        }
+    },
+    "04b04e5f3a8ea0a5_6904": {
+        "lettuce": {
+            "location": "Fridge",
+            "quantity": 2,
+            "quantity_of_slices": 2
+        },
+        "tomato": {
+            "location": "X",
+            "quantity": 1,
+            "quantity_of_slices": 1
+        },
+        "plate": {
+            "location": "Cabinet",
+            "quantity": "X",
+            "quantity_of_slices": "X",
+            "Cleaned": true
+        },
+        "mug": {
+            "location": "X",
+            "quantity": "X",
+            "quantity_of_slices": "X",
+            "Cleaned": false
+        }
+    },
+    "9c97a83f60095487_02d9": {
+        "lettuce": {
+            "location": "X",
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        },
+        "tomato": {
+            "location": "X",
+            "quantity": "X",
+            "quantity_of_slices": "2"
+        },
+        "potato": {
+            "location": "X",
+            "quantity": "X",
+            "quantity_of_slices": "1"
+        },
+        "plate": {
+            "location": "Cabinet",
+            "quantity": "X",
+            "quantity_of_slices": "X",
+            "Cleaned": false
+        },
+        "mug": {
+            "location": "X",
+            "quantity": "X",
+            "quantity_of_slices": "X",
+            "Cleaned": false
+        }
+    },
+    "18e6380ba49c1f55_4ae0": {
+        "plate": {
+            "location": "Cabinet",
+            "Cleaned": true
+        },
+        "potato": {
+            "location": "GarbageCan",
+            "quantity": "1",
+            "quantity_of_slices": "X"
+        },
+        "tomato": {
+            "location": "Cabinet",
+            "quantity": "2",
+            "quantity_of_slices": "X"
+        }
+    },
+    "724c11f87d95f819_7d28": {
+        "tomato": {
+            "location": "GarbageCan",
+            "quantity": 1,
+            "quantity_of_slices": 1
+        },
+        "potato": {
+            "location": "Chair",
+            "quantity": "X",
+            "quantity_of_slices": 2
+        },
+        "plate": {
+            "location": "X",
+            "quantity": 1,
+            "Cleaned": true
+        },
+        "knife": {
+            "location": "Chair",
+            "quantity": 1
+        },
+        "microwave": {
+            "location": "X",
+            "quantity": 1
+        }
+    },
+    "0d600126a7947365_cac4": {
+        "lettuce": {
+            "location": "X",
+            "quantity": 1,
+            "quantity_of_slices": 1
+        },
+        "tomato": {
+            "location": "Stool",
+            "quantity": 1,
+            "quantity_of_slices": 1
+        },
+        "potato": {
+            "location": "Sink",
+            "quantity": 2,
+            "quantity_of_slices": 4
+        },
+        "knife": {
+            "location": "Stool",
+            "quantity": 1,
+            "quantity_of_slices": "X"
+        },
+        "egg": {
+            "location": "Fridge",
+            "quantity": 1,
+            "quantity_of_slices": "X"
+        },
+        "plate": {
+            "location": "Cabinet",
+            "quantity": 1,
+            "quantity_of_slices": "X",
+            "Cleaned": true
+        },
+        "microwave": {
+            "location": "X",
+            "quantity": 1,
+            "quantity_of_slices": "X"
+        }
+    },
+    "0b161c6f709cde89_4c30": {
+        "lettuce": {
+            "location": "Microwave",
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        },
+        "potato": {
+            "location": "Cabinet",
+            "quantity": "2",
+            "quantity_of_slices": "2"
+        },
+        "salt shaker": {
+            "location": "Pot",
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        },
+        "plate": {
+            "location": "Fridge",
+            "quantity": "1",
+            "quantity_of_slices": "X",
+            "Cleaned": true
+        }
+    },
+    "8b5fede9af1ef8f7_337a": {
+        "lettuce": {
+            "location": "X",
+            "quantity": "X",
+            "quantity_of_slices": 2
+        },
+        "potato": {
+            "location": "Fridge",
+            "quantity": "X",
+            "quantity_of_slices": 1
+        },
+        "plate": {
+            "location": "Cabinet",
+            "quantity": "X",
+            "quantity_of_slices": "X",
+            "Cleaned": false
+        }
+    },
+    "8a9ca919625bbec3_8918": {
+        "tomato": {
+            "location": "Shelf",
+            "quantity": "1",
+            "quantity_of_slices": "1"
+        },
+        "potato": {
+            "location": "Shelf",
+            "quantity": "1",
+            "quantity_of_slices": "2"
+        },
+        "plate": {
+            "Cleaned": true
+        },
+        "knife": {
+            "Cleaned": false
+        },
+        "mug": {
+            "Cleaned": false
+        }
+    },
+    "d303178c6e0b75b2_0b1b": {
+        "tomato": {
+            "location": "X",
+            "quantity": 1,
+            "quantity_of_slices": 1
+        },
+        "knife": {
+            "location": "Sink",
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        },
+        "potato": {
+            "location": "Toaster",
+            "quantity": 1,
+            "quantity_of_slices": 1
+        },
+        "microwave": {
+            "location": "X",
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        },
+        "plate": {
+            "location": "Chair",
+            "quantity": 1,
+            "quantity_of_slices": "X",
+            "Cleaned": false
+        }
+    },
+    "281eed6233e4604a_8b09": {
+        "tomato": {
+            "location": "Plate",
+            "quantity": 1,
+            "quantity_of_slices": 1
+        },
+        "lettuce": {
+            "location": "Plate",
+            "quantity": 2,
+            "quantity_of_slices": 2
+        },
+        "plate": {
+            "Cleaned": false
+        }
+    },
+    "18e6380ba49c1f55_b12d": {
+        "tomato": {
+            "location": "Plate",
+            "quantity": 2,
+            "quantity_of_slices": 2
+        },
+        "potato": {
+            "location": "Plate",
+            "quantity": 1,
+            "quantity_of_slices": 1
+        },
+        "plate": {
+            "location": "Cabinet",
+            "Cleaned": false
+        },
+        "mug": {
+            "location": "X",
+            "Cleaned": false
+        }
+    },
+    "fe6b3de8c88b8573_9f76": {
+        "tomato": {
+            "location": "Cabinet",
+            "quantity": "X",
+            "quantity_of_slices": "2"
+        },
+        "potato": {
+            "location": "CounterTop",
+            "quantity": "X",
+            "quantity_of_slices": "2"
+        },
+        "plate": {
+            "location": "CounterTop",
+            "quantity": "X",
+            "quantity_of_slices": "X",
+            "Cleaned": true
+        },
+        "mug": {
+            "location": "X",
+            "quantity": "X",
+            "quantity_of_slices": "X",
+            "Cleaned": false
+        }
+    },
+    "50bc3abf986ccabb_7071": {
+        "lettuce": {
+            "location": "Plate",
+            "quantity": 1,
+            "quantity_of_slices": 1
+        },
+        "tomato": {
+            "location": "Plate",
+            "quantity": 2,
+            "quantity_of_slices": 2
+        },
+        "knife": {
+            "location": "Fridge",
+            "quantity": 1
+        },
+        "plate": {
+            "location": "Cabinet",
+            "quantity": 1,
+            "Cleaned": false
+        }
+    },
+    "5d5178c119bd0e32_d9ee": {
+        "plate": {
+            "location": "X",
+            "quantity": 1,
+            "quantity_of_slices": 2,
+            "Cleaned": false
+        },
+        "lettuce": {
+            "location": "X",
+            "quantity": "X",
+            "quantity_of_slices": 2
+        },
+        "potato": {
+            "location": "Chair",
+            "quantity": 1,
+            "quantity_of_slices": 1
+        },
+        "chair": {
+            "location": "X",
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        }
+    },
+    "100b7186117e3f3f_f776": {
+        "lettuce": {
+            "location": "Plate",
+            "quantity": 1,
+            "quantity_of_slices": 1
+        },
+        "potato": {
+            "location": "Plate",
+            "quantity": 2,
+            "quantity_of_slices": 2
+        },
+        "plate": {
+            "Cleaned": false
+        },
+        "mug": {
+            "Cleaned": false
+        }
+    },
+    "36f78323469b2b02_5f91": {
+        "lettuce": {
+            "location": "Toaster",
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        },
+        "tomato": {
+            "location": "Chair",
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        },
+        "plate": {
+            "location": "Shelf",
+            "quantity": "X",
+            "quantity_of_slices": "X",
+            "Cleaned": true
+        },
+        "sald": {
+            "location": "X",
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        }
+    },
+    "2a3235e39c2ebe24_6514": {
+        "lettuce": {
+            "location": "Fridge",
+            "quantity": 1,
+            "quantity_of_slices": 1
+        },
+        "tomato": {
+            "location": "X",
+            "quantity": 2,
+            "quantity_of_slices": 2
+        },
+        "knife": {
+            "location": "Chair",
+            "quantity": 1
+        },
+        "plate": {
+            "Cleaned": true
+        },
+        "mug": {
+            "Cleaned": false
+        }
+    },
+    "f2392ab395bd6301_0ea8": {
+        "lettuce": {
+            "location": "Cabinet",
+            "quantity": 1,
+            "quantity_of_slices": 1
+        },
+        "tomato": {
+            "location": "X",
+            "quantity": 2,
+            "quantity_of_slices": 2
+        },
+        "knife": {
+            "location": "Fridge",
+            "quantity": 1,
+            "quantity_of_slices": "X"
+        },
+        "plate": {
+            "location": "Fridge",
+            "quantity": 1,
+            "quantity_of_slices": "X",
+            "Cleaned": true
+        },
+        "mug": {
+            "location": "X",
+            "quantity": "X",
+            "quantity_of_slices": "X",
+            "Cleaned": false
+        },
+        "potato": {
+            "location": "X",
+            "quantity": "X",
+            "quantity_of_slices": "X",
+            "Cleaned": false
+        }
+    },
+    "f82346f1b273c70a_aaf6": {
+        "lettuce": {
+            "location": "X",
+            "quantity": 1,
+            "quantity_of_slices": 1
+        },
+        "tomato": {
+            "location": "X",
+            "quantity": 2,
+            "quantity_of_slices": 2
+        },
+        "plate": {
+            "location": "Fridge",
+            "quantity": 1,
+            "Cleaned": false
+        },
+        "mug": {
+            "location": "Fridge",
+            "quantity": 1,
+            "Cleaned": false
+        }
+    },
+    "724c11f87d95f819_a970": {
+        "tomato": {
+            "location": "GarbageCan",
+            "quantity": 1,
+            "quantity_of_slices": 1
+        },
+        "knife": {
+            "location": "Cabinet",
+            "quantity": 1
+        },
+        "potato": {
+            "location": "Chair",
+            "quantity": 1,
+            "quantity_of_slices": 2
+        },
+        "plate": {
+            "location": "DiningTable",
+            "quantity": 1,
+            "Cleaned": true
+        }
+    },
+    "3486945dcd01ebcd_3d9c": {
+        "lettuce": {
+            "location": "Sink",
+            "quantity": 2,
+            "quantity_of_slices": 0
+        },
+        "tomato": {
+            "location": "Fridge",
+            "quantity": 1,
+            "quantity_of_slices": 0
+        },
+        "plate": {
+            "location": "Sink",
+            "quantity": 1,
+            "quantity_of_slices": 0,
+            "Cleaned": false
+        },
+        "knife": {
+            "location": "Desk",
+            "quantity": 1,
+            "quantity_of_slices": 0
+        }
+    },
+    "3f167104c834d2a1_4a77": {
+        "lettuce": {
+            "location": "Cabinet",
+            "quantity": "X",
+            "quantity_of_slices": "1"
+        },
+        "tomato": {
+            "location": "X",
+            "quantity": "X",
+            "quantity_of_slices": "1"
+        },
+        "plate": {
+            "location": "Chair",
+            "quantity": "X",
+            "quantity_of_slices": "X",
+            "Cleaned": true
+        },
+        "mug": {
+            "location": "X",
+            "quantity": "X",
+            "quantity_of_slices": "X",
+            "Cleaned": false
+        }
+    },
+    "50bc3abf986ccabb_aaee": {
+        "lettuce": {
+            "location": "X",
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        },
+        "tomato": {
+            "location": "Basket",
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        },
+        "plate": {
+            "location": "Fridge",
+            "quantity": "X",
+            "quantity_of_slices": "X",
+            "Cleaned": true
+        },
+        "knife": {
+            "location": "Fridge",
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        }
+    },
+    "b389be8338cc3292_add9": {
+        "lettuce": {
+            "location": "Sink",
+            "quantity": "1",
+            "quantity_of_slices": "1"
+        },
+        "knife": {
+            "location": "Cabinet",
+            "quantity": "1"
+        },
+        "potato": {
+            "location": "Fridge",
+            "quantity": "1",
+            "quantity_of_slices": "2"
+        },
+        "plate": {
+            "Cleaned": false
+        },
+        "mug": {
+            "Cleaned": false
+        }
+    },
+    "cf32d4a95cdbcd3a_9fa2": {
+        "lettuce": {
+            "location": "Chair",
+            "quantity": 1,
+            "quantity_of_slices": 2
+        },
+        "knife": {
+            "location": "Fridge",
+            "quantity": 1
+        },
+        "potato": {
+            "location": "Sink",
+            "quantity": 1,
+            "quantity_of_slices": 1
+        },
+        "plate": {
+            "location": "Fridge",
+            "quantity": 1,
+            "Cleaned": true
+        }
+    },
+    "d4c51dc230306c8b_d93b": {
+        "Lettuce": {
+            "location": "Fridge",
+            "quantity": "1",
+            "quantity_of_slices": "1"
+        },
+        "Potato": {
+            "location": "Cabinet",
+            "quantity": "1",
+            "quantity_of_slices": "2"
+        },
+        "Plate": {
+            "location": "Shelf",
+            "quantity": "1",
+            "Cleaned": false
+        },
+        "Knife": {
+            "location": "Fridge",
+            "quantity": "1"
+        }
+    },
+    "8c574b39bd8b4816_4c24": {
+        "knife": {
+            "location": "Sink",
+            "quantity": "1",
+            "quantity_of_slices": "X"
+        },
+        "potato": {
+            "location": "Sink",
+            "quantity": "1",
+            "quantity_of_slices": "X"
+        },
+        "tomato": {
+            "location": "X",
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        },
+        "lettuce": {
+            "location": "GarbageCan",
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        },
+        "plate": {
+            "location": "Statue",
+            "quantity": "1",
+            "quantity_of_slices": "X",
+            "Cleaned": true
+        }
+    },
+    "4364fccce0c7e619_be95": {
+        "PaperTowelRoll": {
+            "location": "X",
+            "quantity": "X"
+        }
+    },
+    "59eeeecb971565f3_9056": {
+        "RemoteControl": {
+            "location": "brown table"
+        }
+    },
+    "4860e2e5f181e3f4_611c": {
+        "Newspaper": {
+            "location": "white shelf next to the couch",
+            "quantity": "1",
+            "quantity_of_slices": "X"
+        },
+        "DiningTable": {
+            "Cleaned": false
+        },
+        "Cup": {
+            "Cleaned": false
+        }
+    },
+    "485726b073721e1c_04d4": {
+        "RemoteControl": {
+            "location": "box",
+            "quantity": 2
+        },
+        "Drawer": {
+            "location": "under the laptop"
+        }
+    },
+    "4aafdc038df138e8_58f0": {
+        "Watch": {
+            "location": "sofa",
+            "quantity": 2
+        },
+        "Chair": {
+            "location": "chair",
+            "quantity": 1
+        }
+    },
+    "1e3b8838189fa144_19b1": {
+        "Clock": {
+            "location": "behind the small black desk table on the white shelf",
+            "quantity": 2
+        },
+        "Drawer": {
+            "location": "in the drawer below and to the right of the laptop",
+            "quantity": 1
+        },
+        "DeskLamp": {
+            "location": "right of the black desk table",
+            "quantity": 1
+        },
+        "Potato": "X",
+        "DiningTable": {
+            "location": "X",
+            "quantity": "X",
+            "Cleaned": false
+        },
+        "Cup": {
+            "location": "X",
+            "quantity": "X",
+            "Cleaned": false
+        }
+    },
+    "41b067f2ce6f3fef_d081": {
+        "Television": {
+            "location": "dresser",
+            "quantity": 2
+        }
+    },
+    "7affadfe549cbeb4_1df8": {
+        "RemoteControl": {
+            "location": "couch",
+            "quantity": 2
+        }
+    },
+    "269cf34b9f509097_1f5b": {
+        "Television": {
+            "location": "bottom cabinet under the phone",
+            "quantity": 1,
+            "Cleaned": false
+        },
+        "DiningTable": {
+            "location": "X",
+            "quantity": "X",
+            "Cleaned": false
+        },
+        "Cup": {
+            "location": "X",
+            "quantity": "X",
+            "Cleaned": false
+        },
+        "Potato": {
+            "location": "X",
+            "quantity": "X",
+            "Cleaned": false
+        }
+    },
+    "4ba815d2914e0514_70e0": {
+        "Television": {
+            "location": "lower right cabinet of the dresser",
+            "quantity": 1,
+            "Cleaned": false
+        },
+        "Table": {
+            "location": "X",
+            "quantity": "X",
+            "Cleaned": false
+        }
+    },
+    "97fd7c6740b657f5_58dc": {
+        "PaperTowelRoll": {
+            "location": "table or chair",
+            "quantity": "2"
+        },
+        "Desk": {
+            "location": "below the pillows",
+            "quantity": "1"
+        },
+        "Cabinet": {
+            "location": "below the laptops",
+            "quantity": "X"
+        }
+    },
+    "4860e2e5f181e3f4_4b34": {
+        "PaperTowelRoll": {
+            "location": "single table",
+            "quantity": 2
+        }
+    },
+    "60d26ec0f9c4757e_425d": {
+        "Towel": {
+            "location": "white shelf",
+            "quantity": 1,
+            "quantity_of_slices": "X"
+        },
+        "DiningTable": {
+            "location": "X",
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        }
+    },
+    "59eeeecb971565f3_a8ff": {
+        "Mug": {
+            "location": "X",
+            "quantity": 1,
+            "quantity_of_slices": "X"
+        },
+        "Cup": {
+            "location": "X",
+            "quantity": 1,
+            "quantity_of_slices": "X",
+            "Cleaned": true
+        },
+        "RemoteControl": {
+            "location": "sofa",
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        }
+    },
+    "dfc3dfb3dd5ff1fd_69af": {
+        "PaperTowelRoll": {
+            "location": "single dresser",
+            "quantity": 2
+        }
+    },
+    "0f0664338151d4ac_5c06": {
+        "Towel": {
+            "location": "mini fridge",
+            "quantity": "1",
+            "Cleaned": false
+        },
+        "Furniture": {
+            "location": "X",
+            "quantity": "X",
+            "Cleaned": false
+        }
+    },
+    "0196f21923a77e88_288f": {
+        "PaperTowelRoll": {
+            "location": "sofa",
+            "quantity": 3
+        },
+        "ShelvingUnit": {
+            "location": "X",
+            "quantity": 1
+        },
+        "TVStand": {
+            "location": "X",
+            "quantity": 1
+        },
+        "Shelf": {
+            "location": "X",
+            "quantity": 1
+        },
+        "Drawer": {
+            "location": "X",
+            "quantity": 1
+        },
+        "FloorLamp": {
+            "location": "X",
+            "quantity": 1
+        },
+        "Desk": {
+            "location": "X",
+            "quantity": 1
+        }
+    },
+    "43ab49a445e41c42_0717": {
+        "Drawer": {
+            "location": "soda",
+            "quantity": 1
+        },
+        "Clock": {
+            "location": "sofa",
+            "quantity": 2
+        }
+    },
+    "32813f06255beef5_0bd5": {
+        "Clock": {
+            "location": "white box on the floor",
+            "quantity": 2
+        }
+    },
+    "c2ffd6a81bfe2613_f91c": {
+        "Television": {
+            "location": "white box next to tv",
+            "quantity": 2
+        },
+        "Sofa": {
+            "quantity": 1
+        },
+        "DeskLamp": {
+            "location": "beside brown table",
+            "quantity": 1
+        },
+        "DiningTable": {
+            "quantity": 1
+        }
+    },
+    "ba8bcc8d1e38b29c_a4c6": {
+        "PaperTowelRoll": {
+            "location": "white shelf",
+            "quantity": 3
+        },
+        "DiningTable": {
+            "location": "black",
+            "Cleaned": false
+        }
+    },
+    "3041e39d6d26d967_18c4": {
+        "Cup": {
+            "location": "Cabinet",
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        }
+    },
+    "2ed555b6ad361b03_1875": {
+        "Television": {
+            "location": "sofa",
+            "quantity": 1,
+            "Cleaned": false
+        },
+        "DiningTable": {
+            "location": "X",
+            "quantity": "X",
+            "Cleaned": false
+        }
+    },
+    "4daa22a98372b4dc_b7f3": {
+        "Newspaper": {
+            "location": "side table",
+            "quantity": 2
+        }
+    },
+    "88ddc0cbf1a23687_a55b": {
+        "RemoteControl": {
+            "location": "X",
+            "quantity": 2,
+            "quantity_of_slices": "X"
+        },
+        "Sofa": {
+            "location": "X",
+            "quantity": 2,
+            "quantity_of_slices": "X"
+        },
+        "Desk": {
+            "location": "cream long sofa back side",
+            "quantity": 1,
+            "quantity_of_slices": "X"
+        },
+        "DiningTable": {
+            "location": "left side",
+            "quantity": 1,
+            "quantity_of_slices": "X"
+        },
+        "CoffeeTable": {
+            "location": "left side",
+            "quantity": 1,
+            "quantity_of_slices": "X"
+        }
+    },
+    "e32e722334301fa7_892d": {
+        "Towel": {
+            "location": "side table",
+            "quantity": 3
+        },
+        "Cabinet": {
+            "location": "below the laptop"
+        },
+        "Dresser": {
+            "location": "to the left of the laptop"
+        },
+        "DiningTable": {
+            "location": "other side table",
+            "Cleaned": false
+        },
+        "FloorLamp": {
+            "location": "other side table"
+        }
+    },
+    "36492265af47de94_a352": {
+        "PaperTowelRoll": {
+            "location": "armchair",
+            "quantity": 2
+        },
+        "Bowl": {
+            "location": "X",
+            "quantity": "X",
+            "Cleaned": false
+        },
+        "Cup": {
+            "location": "X",
+            "quantity": "X",
+            "Cleaned": false
+        },
+        "Potato": {
+            "location": "X",
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        }
+    },
+    "41b067f2ce6f3fef_8ee6": {
+        "RemoteControl": {
+            "location": "dresser in the middle left cabinet",
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        },
+        "Potato": {
+            "location": "X",
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        },
+        "DiningTable": {
+            "location": "X",
+            "quantity": "X",
+            "quantity_of_slices": "X",
+            "Cleaned": false
+        },
+        "Cup": {
+            "location": "X",
+            "quantity": "X",
+            "quantity_of_slices": "X",
+            "Cleaned": false
+        }
+    },
+    "32261699763eadbb_f766": {
+        "RemoteControl": {
+            "location": "dresser",
+            "quantity": 2
+        }
+    },
+    "1e3b8838189fa144_b1bb": {
+        "Watch": {
+            "location": "in the box",
+            "quantity": "all",
+            "quantity_of_slices": "X"
+        },
+        "Drawer": {
+            "location": "on the floor",
+            "quantity": "1",
+            "quantity_of_slices": "X"
+        },
+        "Cabinet": {
+            "location": "X",
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        },
+        "Furniture": {
+            "location": "X",
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        },
+        "FloorLamp": {
+            "location": "X",
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        },
+        "Desk": {
+            "location": "behind desk",
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        },
+        "Television": {
+            "location": "X",
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        },
+        "Sofa": {
+            "location": "X",
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        },
+        "Shelf": {
+            "location": "X",
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        }
+    },
+    "790752461b691da2_aa3f": {
+        "Towel": {
+            "location": "same side table",
+            "quantity": 3
+        },
+        "DiningTable": {
+            "location": "X",
+            "quantity": "X",
+            "Cleaned": false
+        },
+        "Cup": {
+            "location": "X",
+            "quantity": "X",
+            "Cleaned": false
+        },
+        "Potato": {
+            "location": "X",
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        }
+    },
+    "2b1950aaa4e3413c_3110": {
+        "Towel": {
+            "location": "table drawer",
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        },
+        "DiningTable": {
+            "location": "another table",
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        },
+        "Sofa": {
+            "location": "beside the grey sofa",
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        },
+        "FloorLamp": {
+            "location": "below the lamp",
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        },
+        "Desk": {
+            "location": "drawer below the lamp",
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        },
+        "Cabinet": {
+            "location": "X",
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        },
+        "Drawer": {
+            "location": "X",
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        },
+        "Dresser": {
+            "location": "out onto a single dresser",
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        }
+    },
+    "a72c03efd22ce41c_c338": {
+        "Clock": {
+            "location": "black table",
+            "quantity": 2
+        }
+    },
+    "c4bde24cdcf68b31_e74b": {
+        "PaperTowelRoll": {
+            "location": "side table",
+            "quantity": "2"
+        },
+        "Chair": {
+            "location": "X"
+        },
+        "Furniture": {
+            "location": "X"
+        },
+        "Desk": {
+            "location": "X"
+        },
+        "ShelvingUnit": {
+            "location": "X"
+        },
+        "TissueBox": {
+            "location": "X",
+            "quantity": "1"
+        }
+    },
+    "54126d5229149bc1_2ccd": {
+        "Clock": {
+            "location": "cabinets where the lamps are",
+            "quantity": 2
+        },
+        "Chair": {
+            "location": "X",
+            "quantity": 1
+        },
+        "Sofa": {
+            "location": "X",
+            "quantity": 1
+        },
+        "Desk": {
+            "location": "X",
+            "quantity": 1
+        }
+    },
+    "c6c5c151b7b8e770_38db": {
+        "TissueBox": {
+            "location": "shelves",
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        },
+        "Table": {
+            "location": "X",
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        }
+    },
+    "88ddc0cbf1a23687_43ea": {
+        "RemoteControl": {
+            "location": "brown table next to tv",
+            "quantity": 2
+        },
+        "Furniture": {
+            "location": "on the sofa"
+        },
+        "Sofa": {
+            "location": "on the single chair sofa"
+        }
+    },
+    "4daa22a98372b4dc_2aaf": {
+        "Newspaper": {
+            "location": "couch",
+            "quantity": 1
+        }
+    },
+    "a76099fbab67c9da_4d48": {
+        "Television": {
+            "location": "blue chair",
+            "quantity": 2
+        }
+    },
+    "2a90a78e5ddd3af0_e7d1": {
+        "Furniture": {
+            "location": "sofa",
+            "quantity": 1,
+            "quantity_of_slices": "X"
+        },
+        "DiningTable": {
+            "location": "other table",
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        },
+        "FloorLamp": {
+            "location": "other table",
+            "quantity": 1,
+            "quantity_of_slices": "X"
+        }
+    },
+    "d33861eae5655995_2fb1": {
+        "RemoteControl": {
+            "location": "bottom left of the bureau",
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        },
+        "Safe": {
+            "location": "X",
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        },
+        "Chair": {
+            "location": "X",
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        },
+        "Drawer": {
+            "location": "X",
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        },
+        "DiningTable": {
+            "location": "X",
+            "quantity": "X",
+            "quantity_of_slices": "X",
+            "Cleaned": false
+        },
+        "Cup": {
+            "location": "X",
+            "quantity": "X",
+            "quantity_of_slices": "X",
+            "Cleaned": false
+        }
+    },
+    "64c836cb91614ac6_913a": {
+        "PaperTowelRoll": {
+            "location": "cabinet left to sofa",
+            "quantity": 2
+        },
+        "Chair": {
+            "location": "X",
+            "quantity": 1
+        }
+    },
+    "88ddc0cbf1a23687_6ae4": {
+        "RemoteControl": {
+            "location": "couch",
+            "quantity": 2
+        },
+        "DiningTable": {
+            "location": "X",
+            "quantity": "X"
+        }
+    },
+    "e141c8f6246ebd83_9dee": {
+        "Television": {
+            "location": "single chair",
+            "quantity": 1
+        },
+        "DiningTable": {
+            "Cleaned": false
+        },
+        "Cup": {
+            "Cleaned": false
+        },
+        "Potato": {
+            "location": "X"
+        }
+    },
+    "4daa22a98372b4dc_fb3b": {
+        "Newspaper": {
+            "location": "single side table",
+            "quantity": 1
+        },
+        "Shelf": {
+            "location": "X",
+            "quantity": "X"
+        }
+    },
+    "aa310077d368fbbc_0a82": {
+        "PaperTowelRoll": {
+            "location": "dresser",
+            "quantity": 1,
+            "quantity_of_slices": "X"
+        },
+        "Bowl": {
+            "location": "X",
+            "quantity": "X",
+            "quantity_of_slices": "X",
+            "Cleaned": false
+        },
+        "Cup": {
+            "location": "X",
+            "quantity": "X",
+            "quantity_of_slices": "X",
+            "Cleaned": false
+        }
+    },
+    "357d6b153c05eeb4_b053": {
+        "PaperTowelRoll": {
+            "location": "white shelf next to the couch"
+        },
+        "Sofa": {
+            "Cleaned": false
+        },
+        "Table": {
+            "Cleaned": false
+        }
+    },
+    "88138818bb9dffe3_9493": {
+        "Watch": {
+            "location": "couch",
+            "quantity": 2
+        }
+    },
+    "e935582bf436b03a_b849": {
+        "Pen": {
+            "location": "grey bin by the desk",
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        },
+        "Chair": {
+            "location": "X",
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        }
+    },
+    "af3ea35af62cb764_ea5f": {
+        "Bed": {
+            "location": "armchair",
+            "quantity": 3
+        },
+        "Cabinet": {
+            "location": "X",
+            "quantity": "X"
+        }
+    },
+    "8463e3c141964336_c9cc": {
+        "CreditCard": {
+            "location": "bed",
+            "quantity": 3
+        },
+        "Plate": {
+            "location": "desk",
+            "quantity": 1
+        },
+        "Ottoman": {
+            "location": "book shelf",
+            "quantity": "X"
+        }
+    },
+    "53472cf3cabeb021_46b6": {
+        "Bed": {
+            "location": "X",
+            "quantity": 2,
+            "quantity_of_slices": "X"
+        },
+        "Furniture": {
+            "location": "X",
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        },
+        "DiningTable": {
+            "location": "X",
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        },
+        "FloorLamp": {
+            "location": "table",
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        },
+        "Cabinet": {
+            "location": "X",
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        },
+        "Basket": {
+            "location": "X",
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        }
+    },
+    "95cb6d56c9a3d66a_7b48": {
+        "Pen": {
+            "location": "desk close to the window",
+            "quantity": 4
+        }
+    },
+    "89d33b0460a72617_ceae": {
+        "Pot": {
+            "location": "fridge",
+            "quantity": 2
+        },
+        "Sink": {
+            "location": "X"
+        },
+        "Cabinet": {
+            "location": "below the coffee maker",
+            "quantity": 1
+        },
+        "Chair": {
+            "location": "on the other side of the counter",
+            "quantity": 1
+        }
+    },
+    "d506ab0d185b3822_00f0": {
+        "RemoteControl": {
+            "location": "inside the box left to tv",
+            "quantity": 2,
+            "quantity_of_slices": "X"
+        },
+        "SideTable": {
+            "location": "X",
+            "quantity": 1,
+            "quantity_of_slices": "X"
+        },
+        "Drawer": {
+            "location": "left to tv",
+            "quantity": 1,
+            "quantity_of_slices": "X"
+        },
+        "Television": {
+            "location": "X",
+            "quantity": 1,
+            "quantity_of_slices": "X"
+        }
+    },
+    "d32b5b3ae85de107_d71f": {
+        "Watch": {
+            "location": "armchair",
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        }
+    },
+    "25ef88cce38adfbc_d042": {
+        "CreditCard": {
+            "location": "desk",
+            "quantity": 3
+        }
+    },
+    "133d52a8aaf9db3f_1647": {
+        "Towel": {
+            "location": "dresser",
+            "quantity": 2
+        },
+        "DiningTable": {
+            "location": "X",
+            "quantity": "X",
+            "Cleaned": false
+        },
+        "Cup": {
+            "location": "X",
+            "quantity": "X",
+            "Cleaned": false
+        },
+        "Potato": {
+            "location": "X",
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        }
+    },
+    "4e893adaff5699af_ab4f": {
+        "Book": {
+            "location": "table",
+            "quantity": 1,
+            "quantity_of_slices": "X"
+        },
+        "Furniture": {
+            "location": "X",
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        },
+        "DiningTable": {
+            "location": "X",
+            "quantity": "X",
+            "quantity_of_slices": "X",
+            "Cleaned": false
+        },
+        "Cup": {
+            "location": "X",
+            "quantity": "X",
+            "quantity_of_slices": "X",
+            "Cleaned": false
+        }
+    },
+    "af3ea35af62cb764_dbcb": {
+        "Bed": {
+            "location": "arm chair",
+            "quantity": 3
+        },
+        "Desk": {
+            "location": "X",
+            "quantity": 1
+        }
+    },
+    "15a2ce1658fd12f3_dc2b": {
+        "Television": {
+            "location": "cabinet",
+            "quantity": 1
+        },
+        "Drawer": {
+            "location": "couch",
+            "quantity": "X"
+        }
+    },
+    "3a9da83a824cb52d_c626": {
+        "Watch": {
+            "location": "side table",
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        },
+        "Bed": {
+            "location": "X",
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        },
+        "Drawer": {
+            "location": "left",
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        }
+    },
+    "12ab152dea281748_1600": {
+        "Television": {
+            "location": "X",
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        },
+        "Chair": {
+            "location": "X",
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        },
+        "Towel": {
+            "location": "left of the tv screen",
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        }
+    },
+    "1b382ab21a3bffcd_561a": {
+        "Towel": {
+            "location": "X",
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        },
+        "Table": {
+            "location": "X",
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        },
+        "Desk": {
+            "location": "X",
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        },
+        "DiningTable": {
+            "location": "X",
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        },
+        "Drawer": {
+            "location": "left side of the tv",
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        }
+    },
+    "49acf64946d75b97_bc6e": {
+        "Clock": {
+            "location": "couch",
+            "quantity": 2
+        },
+        "Table": {
+            "location": "dark brown table",
+            "quantity": 2
+        }
+    },
+    "488f96fab858496c_d6e2": {
+        "Utensil": {
+            "location": "sink",
+            "quantity": 2
+        }
+    },
+    "1a8b00c643110183_ebc6": {
+        "SportsEquipment": {
+            "location": "bed",
+            "quantity": "2",
+            "quantity_of_slices": "X"
+        },
+        "Plate": {
+            "location": "X",
+            "quantity": "X",
+            "quantity_of_slices": "X",
+            "Cleaned": false
+        },
+        "Cup": {
+            "location": "X",
+            "quantity": "X",
+            "quantity_of_slices": "X",
+            "Cleaned": false
+        },
+        "Potato": {
+            "location": "X",
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        }
+    },
+    "53472cf3cabeb021_b7f8": {
+        "Bed": {
+            "location": "table in the corner",
+            "quantity": 2
+        }
+    },
+    "8b87ce5ddb8212a1_f227": {
+        "Electronics": {
+            "location": "dust bin",
+            "quantity": 1,
+            "quantity_of_slices": "X"
+        },
+        "DiningTable": {
+            "location": "X",
+            "quantity": "X",
+            "quantity_of_slices": "X",
+            "Cleaned": false
+        },
+        "Cup": {
+            "location": "X",
+            "quantity": "X",
+            "quantity_of_slices": "X",
+            "Cleaned": false
+        }
+    },
+    "8d331ce38c9f2a85_5a9f": {
+        "Newspaper": {
+            "location": "furniture",
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        },
+        "Chair": {
+            "location": "X",
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        },
+        "DiningTable": {
+            "location": "X",
+            "quantity": "X",
+            "quantity_of_slices": "X",
+            "Cleaned": false
+        },
+        "Cup": {
+            "location": "X",
+            "quantity": "X",
+            "quantity_of_slices": "X",
+            "Cleaned": false
+        }
+    },
+    "3ebbcf3c3aed7c9e_5813": {
+        "Bed": {
+            "location": "arm chair",
+            "quantity": 1,
+            "quantity_of_slices": "X"
+        },
+        "Desk": {
+            "location": "brown",
+            "quantity": 1,
+            "quantity_of_slices": "X"
+        },
+        "FloorLamp": {
+            "location": "stand",
+            "quantity": 1,
+            "quantity_of_slices": "X"
+        }
+    },
+    "af3ea35af62cb764_aea5": {
+        "Bed": {
+            "location": "arm chair",
+            "quantity": 3
+        },
+        "Furniture": {
+            "location": "X"
+        },
+        "Dresser": {
+            "location": "X"
+        },
+        "Cabinet": {
+            "location": "X"
+        }
+    },
+    "0d823e35f4b338b1_9b37": {
+        "PaperTowelRoll": {
+            "location": "sofa",
+            "quantity": "all",
+            "quantity_of_slices": "X"
+        },
+        "Desk": {
+            "location": "black",
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        },
+        "Lamp": {
+            "location": "black console",
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        },
+        "DiningTable": {
+            "location": "X",
+            "quantity": "X",
+            "quantity_of_slices": "X",
+            "Cleaned": false
+        },
+        "Cup": {
+            "location": "X",
+            "quantity": "X",
+            "quantity_of_slices": "X",
+            "Cleaned": false
+        }
+    },
+    "fecb72b55dad2b4a_8b46": {
+        "Vegetable": {
+            "location": "X",
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        },
+        "Cabinet": {
+            "location": "X",
+            "quantity": "X",
+            "quantity_of_slices": "X",
+            "Cleaned": false
+        },
+        "Shelf": {
+            "location": "X",
+            "quantity": "X",
+            "quantity_of_slices": "X",
+            "Cleaned": false
+        },
+        "Fridge": {
+            "location": "X",
+            "quantity": "X",
+            "quantity_of_slices": "X",
+            "Cleaned": false
+        }
+    },
+    "0460150bc5699dc0_4640": {
+        "Bed": {
+            "location": "white shelf",
+            "quantity": 3
+        },
+        "Chair": {
+            "location": "to the left",
+            "quantity": 1
+        },
+        "DiningTable": {
+            "location": "next to sofa chair",
+            "quantity": 1
+        }
+    },
+    "25ef88cce38adfbc_6530": {
+        "Chair": {
+            "location": "X"
+        },
+        "Desk": {
+            "location": "X"
+        },
+        "CreditCard": {
+            "location": "desk",
+            "quantity": 3
+        }
+    },
+    "f892b2976d0955e0_b0d9": {
+        "BasketBall": {
+            "location": "Bed",
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        },
+        "DiningTable": {
+            "location": "X",
+            "quantity": "X",
+            "quantity_of_slices": "X",
+            "Cleaned": false
+        },
+        "Cup": {
+            "location": "X",
+            "quantity": "X",
+            "quantity_of_slices": "X",
+            "Cleaned": false
+        },
+        "Vegetable": {
+            "location": "X",
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        }
+    },
+    "96f5c7fccc368de7_dfe9": {
+        "Book": {
+            "location": "bed",
+            "quantity": 1
+        },
+        "Furniture": {
+            "Cleaned": false
+        },
+        "Desk": {
+            "Cleaned": false
+        }
+    },
+    "7334889a1fa54076_cb4c": {
+        "RemoteControl": {
+            "location": "cupboard underneath the lamp",
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        }
+    },
+    "c6f7828bc5640531_1604": {
+        "Watch": {
+            "location": "white safe",
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        }
+    },
+    "397f05496120c6f6_cc0f": {
+        "Bowl": {
+            "location": "sink",
+            "quantity": "X",
+            "quantity_of_slices": "X",
+            "Cleaned": true
+        },
+        "DiningTable": {
+            "location": "X",
+            "quantity": "X",
+            "quantity_of_slices": "X",
+            "Cleaned": false
+        },
+        "Cup": {
+            "location": "X",
+            "quantity": "X",
+            "quantity_of_slices": "X",
+            "Cleaned": false
+        },
+        "Vegetable": {
+            "location": "fridge",
+            "quantity": "X",
+            "quantity_of_slices": "X",
+            "Cleaned": false
+        }
+    },
+    "4d30e90e534e9cbb_732b": {
+        "Clock": {
+            "location": "brown table",
+            "quantity": 2
+        }
+    },
+    "915fdf90f4bc33cd_6c72": {
+        "Utensil": {
+            "location": "chair",
+            "quantity": "2",
+            "quantity_of_slices": "X"
+        },
+        "Cabinet": {
+            "location": "X",
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        },
+        "HousePlant": {
+            "location": "X",
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        }
+    },
+    "23e8689bd360eb6f_2843": {
+        "Bed": {
+            "location": "sofa",
+            "quantity": 1,
+            "quantity_of_slices": "X"
+        },
+        "Desk": {
+            "location": "X",
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        }
+    },
+    "491169530040eb68_c8b0": {
+        "PaperTowelRoll": {
+            "location": "chair",
+            "quantity": 3
+        },
+        "Drawer": {
+            "location": "long brown table",
+            "quantity": 1
+        },
+        "DiningTable": {
+            "location": "long brown",
+            "quantity": 1
+        },
+        "Cabinet": {
+            "location": "long brown table",
+            "quantity": 1
+        }
+    },
+    "3ebbcf3c3aed7c9e_2eb2": {
+        "Bed": {
+            "location": "arm chair",
+            "quantity": "all",
+            "quantity_of_slices": "X"
+        },
+        "Chair": {
+            "location": "X",
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        },
+        "Furniture": {
+            "location": "X",
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        }
+    },
+    "eef61c8f3cdd8280_c537": {
+        "Pen": {
+            "location": "bed",
+            "quantity": "all",
+            "quantity_of_slices": "X"
+        },
+        "CellPhone": {
+            "location": "desk",
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        },
+        "GarbageCan": {
+            "location": "X",
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        },
+        "Bowl": {
+            "location": "X",
+            "quantity": "X",
+            "quantity_of_slices": "X",
+            "Cleaned": false
+        },
+        "Cup": {
+            "location": "X",
+            "quantity": "X",
+            "quantity_of_slices": "X",
+            "Cleaned": false
+        }
+    },
+    "e6b335269ed35e78_a8f4": {
+        "PaperTowelRoll": {
+            "location": "table with a black lamp",
+            "quantity": 2
+        }
+    },
+    "92a60929e3b1b576_97aa": {
+        "Newspaper": {
+            "location": "armchair",
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        },
+        "DiningTable": {
+            "location": "X",
+            "quantity": "X",
+            "quantity_of_slices": "X",
+            "Cleaned": false
+        },
+        "Cup": {
+            "location": "X",
+            "quantity": "X",
+            "quantity_of_slices": "X",
+            "Cleaned": false
+        },
+        "Potato": {
+            "location": "X",
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        }
+    },
+    "66015369bcfd9dea_464c": {
+        "CreditCard": {
+            "location": "X",
+            "quantity": "X"
+        }
+    },
+    "95cb6d56c9a3d66a_bf80": {
+        "Pen": {
+            "location": "desk",
+            "quantity": 3
+        },
+        "Safe": {
+            "location": "X"
+        }
+    },
+    "c6f7828bc5640531_c556": {
+        "Clock": {
+            "location": "sofa",
+            "quantity": 1,
+            "quantity_of_slices": "X"
+        },
+        "Box": {
+            "location": "left of the TV",
+            "quantity": 1,
+            "quantity_of_slices": "X"
+        },
+        "Television": {
+            "location": "X",
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        },
+        "Safe": {
+            "location": "X",
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        },
+        "Furniture": {
+            "location": "X",
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        }
+    },
+    "3fe460690c495bb6_ad9c": {
+        "Bed": {
+            "location": "chair",
+            "quantity": 2
+        }
+    },
+    "9e23434a16a146b5_7f9a": {
+        "PaperTowelRoll": {
+            "location": "black table with the black lamp",
+            "quantity": 3
+        },
+        "Table": {
+            "location": "X"
+        },
+        "CounterTop": {
+            "location": "X"
+        },
+        "Shelf": {
+            "location": "X"
+        }
+    },
+    "133d52a8aaf9db3f_8ed8": {
+        "Towel": {
+            "location": "dresser",
+            "quantity": 1
+        },
+        "TissueBox": {
+            "location": "top shelf behind the statue",
+            "quantity": 1
+        }
+    },
+    "94a921b29def9f26_9157": {
+        "Television": {
+            "location": "sofa",
+            "quantity": 2
+        },
+        "DiningTable": {
+            "location": "X",
+            "quantity": "X",
+            "Cleaned": false
+        },
+        "Cup": {
+            "location": "X",
+            "quantity": "X",
+            "Cleaned": false
+        },
+        "Potato": {
+            "location": "X",
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        }
+    },
+    "25ef88cce38adfbc_1740": {
+        "CreditCard": {
+            "location": "desk",
+            "quantity": 3
+        },
+        "Chair": {
+            "location": "X"
+        }
+    },
+    "25ef88cce38adfbc_6c10": {
+        "CreditCard": {
+            "location": "desk",
+            "quantity": 2
+        }
+    },
+    "536cc088a216c58f_b755": {
+        "knife": {
+            "location": "X"
+        },
+        "potato": {
+            "location": "Sink"
+        },
+        "sliced_potatoes": {
+            "location": "Microwave",
+            "quantity": 2
+        },
+        "bowl": {
+            "location": "StoveBurner",
+            "Cleaned": true
+        }
+    },
+    "f9aac6926bcd39ec_4686": {
+        "potato": {
+            "location": "Fridge",
+            "quantity": 1,
+            "quantity_of_slices": "X"
+        },
+        "knife": {
+            "location": "Sink",
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        },
+        "plate": {
+            "location": "Toaster",
+            "quantity": 1,
+            "quantity_of_slices": 1,
+            "Cleaned": false
+        }
+    },
+    "8c175f68aaeb1f59_79dd": {
+        "potato": {
+            "location": "Fridge",
+            "quantity": "1",
+            "quantity_of_slices": "1"
+        },
+        "plate": {
+            "location": "Microwave",
+            "quantity": "1",
+            "Cleaned": true
+        }
+    },
+    "61d740111c7f4a7e_7c5f": {
+        "potato": {
+            "location": "StoveBurner",
+            "quantity": "1",
+            "quantity_of_slices": "1"
+        },
+        "knife": {
+            "location": "Fridge",
+            "quantity": "1"
+        },
+        "bowl": {
+            "location": "Fridge",
+            "quantity": "1",
+            "Cleaned": true
+        },
+        "slice": {
+            "location": "Bowl",
+            "quantity": "1"
+        }
+    },
+    "4ba5604e5d3a4ecb_7550": {
+        "potato": {
+            "location": "X",
+            "quantity": 3,
+            "quantity_of_slices": 3
+        },
+        "plate": {
+            "location": "Cabinet",
+            "quantity": 1,
+            "Cleaned": false
+        }
+    },
+    "b02072de6669ccf5_8cc8": {
+        "potato": {
+            "location": "X",
+            "quantity": "1",
+            "quantity_of_slices": "X"
+        },
+        "knife": {
+            "location": "Fridge",
+            "quantity": "1",
+            "quantity_of_slices": "X"
+        },
+        "bowl": {
+            "location": "Fridge",
+            "quantity": "1",
+            "quantity_of_slices": "X",
+            "Cleaned": true
+        }
+    },
+    "c7d8b93c8a4486f3_8e32": {
+        "potato": {
+            "location": "Sink",
+            "quantity": "1",
+            "quantity_of_slices": "2"
+        },
+        "plate": {
+            "location": "Fridge",
+            "quantity": "1",
+            "Cleaned": false
+        },
+        "mug": {
+            "location": "X",
+            "quantity": "X",
+            "Cleaned": false
+        }
+    },
+    "331640a29decbddf_0e45": {
+        "potato": {
+            "location": "DiningTable",
+            "quantity": "1",
+            "quantity_of_slices": "3"
+        },
+        "knife": {
+            "location": "Sink"
+        },
+        "pot": {
+            "location": "Sink"
+        },
+        "microwave": {
+            "location": "Microwave"
+        },
+        "plate": {
+            "location": "Shelf",
+            "Cleaned": true
+        }
+    },
+    "50f50a8011780f37_458c": {
+        "potato": {
+            "location": "Sink",
+            "quantity": 1,
+            "quantity_of_slices": 1
+        },
+        "plate": {
+            "location": "Cabinet",
+            "quantity": 1,
+            "Cleaned": true
+        }
+    },
+    "49f3468de00d4ec5_14bf": {
+        "potato": {
+            "location": "Cabinet",
+            "quantity": "1",
+            "quantity_of_slices": "4"
+        },
+        "knife": {
+            "location": "Chair",
+            "quantity": "1"
+        },
+        "bowl": {
+            "location": "Plate",
+            "quantity": "1",
+            "Cleaned": true
+        },
+        "pan": {
+            "location": "Sink",
+            "quantity": "1",
+            "Cleaned": true
+        },
+        "stove": {
+            "location": "Desk",
+            "quantity": "1"
+        },
+        "cooked potato slices": {
+            "location": "Pan",
+            "quantity": "4"
+        },
+        "clean bowl": {
+            "location": "X",
+            "quantity": "1",
+            "Cleaned": true
+        }
+    },
+    "e39506b92a8f6bef_8584": {
+        "tomato": {
+            "location": "Stool",
+            "quantity": 1,
+            "quantity_of_slices": 3
+        },
+        "knife": {
+            "location": "Sink"
+        },
+        "bowl": {
+            "location": "DiningTable"
+        },
+        "lettuce": {
+            "location": "X"
+        }
+    },
+    "3974a05de94d42b5_c851": {
+        "plate": {
+            "location": "Cabinet",
+            "quantity": 1,
+            "quantity_of_slices": "X",
+            "Cleaned": false
+        },
+        "lettuce": {
+            "location": "X",
+            "quantity": "X",
+            "quantity_of_slices": 1
+        },
+        "knife": {
+            "location": "Cabinet",
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        }
+    },
+    "a8efdb9da94a98cb_cd20": {
+        "tomato": {
+            "location": "CounterTop",
+            "quantity": 1,
+            "quantity_of_slices": 2
+        },
+        "knife": {
+            "location": "Fridge"
+        },
+        "plate": {
+            "location": "CoffeeTable",
+            "Cleaned": true
+        }
+    },
+    "9469c520db9f0cfd_87fa": {
+        "tomato": {
+            "location": "Toaster",
+            "quantity": "X",
+            "quantity_of_slices": "2"
+        },
+        "plate": {
+            "location": "Toaster",
+            "quantity": "X",
+            "quantity_of_slices": "X",
+            "Cleaned": true
+        },
+        "knife": {
+            "location": "Microwave",
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        }
+    },
+    "fccceb06c116d40d_4fae": {
+        "bowl": {
+            "location": "Fridge",
+            "quantity": 1,
+            "Cleaned": true
+        },
+        "tomato": {
+            "quantity_of_slices": 2
+        },
+        "knife": {
+            "location": "Drawer"
+        },
+        "plate": {
+            "quantity": "X",
+            "Cleaned": false
+        }
+    },
+    "140100bb94c405d9_6347": {
+        "Tomato": {
+            "location": "X",
+            "quantity": 1,
+            "quantity_of_slices": 1
+        },
+        "Bowl": {
+            "location": "X",
+            "quantity": 1,
+            "Cleaned": false
+        }
+    },
+    "939868d1c82fb349_464e": {
+        "tomato": {
+            "location": "X",
+            "quantity": "1",
+            "quantity_of_slices": "3"
+        },
+        "knife": {
+            "location": "DiningTable",
+            "quantity": "1"
+        },
+        "plate": {
+            "location": "Fridge",
+            "quantity": "1",
+            "Cleaned": false
+        }
+    },
+    "7bffef63520e425c_521b": {
+        "tomato": {
+            "location": "DiningTable",
+            "quantity": "1",
+            "quantity_of_slices": "1"
+        },
+        "plate": {
+            "location": "Plate",
+            "quantity": "1",
+            "Cleaned": true
+        },
+        "knife": {
+            "location": "StoveBurner",
+            "quantity": "1"
+        },
+        "mug": {
+            "location": "X",
+            "quantity": "X",
+            "Cleaned": false
+        }
+    },
+    "6bc2c5375cc2f60f_e616": {
+        "lettuce": {
+            "location": "Fridge",
+            "quantity": 2,
+            "quantity_of_slices": 3
+        },
+        "knife": {
+            "location": "Cabinet"
+        },
+        "plate": {
+            "location": "Cabinet",
+            "Cleaned": true
+        }
+    },
+    "3c82a4284ec95f08_f378": {
+        "tomato": {
+            "location": "Cabinet",
+            "quantity": "1",
+            "quantity_of_slices": "X"
+        },
+        "knife": {
+            "location": "DiningTable",
+            "quantity": "1",
+            "quantity_of_slices": "X"
+        },
+        "bowl": {
+            "location": "Fridge",
+            "quantity": "1",
+            "quantity_of_slices": "X",
+            "Cleaned": true
+        },
+        "plate": {
+            "location": "X",
+            "quantity": "X",
+            "quantity_of_slices": "X",
+            "Cleaned": false
+        },
+        "mug": {
+            "location": "X",
+            "quantity": "X",
+            "quantity_of_slices": "X",
+            "Cleaned": false
+        }
+    },
+    "50177318f6cdad2a_7eca": {
+        "Tomato": {
+            "location": "Microwave",
+            "quantity": "1",
+            "quantity_of_slices": "X"
+        },
+        "Knife": {
+            "location": "Chair",
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        },
+        "Plate": {
+            "location": "Chair",
+            "quantity": "1",
+            "quantity_of_slices": "X",
+            "Cleaned": true
+        }
+    },
+    "de09f7610189f8be_c231": {
+        "plate": {
+            "location": "Cabinet",
+            "quantity": "1",
+            "Cleaned": false
+        },
+        "tomato": {
+            "location": "X",
+            "quantity": "4",
+            "quantity_of_slices": "4"
+        }
+    },
+    "b0aea68d80b2b19d_d5c9": {
+        "tomato": {
+            "location": "Chair",
+            "quantity": "1",
+            "quantity_of_slices": "1"
+        },
+        "knife": {
+            "location": "CounterTop",
+            "quantity": "1"
+        },
+        "bowl": {
+            "location": "CounterTop",
+            "quantity": "1",
+            "Cleaned": false
+        },
+        "salt": {
+            "location": "Bowl",
+            "quantity": "X"
+        }
+    },
+    "c562754f19db49dc_50b9": {
+        "tomato": {
+            "location": "Cabinet",
+            "quantity": 1,
+            "quantity_of_slices": 1
+        },
+        "plate": {
+            "Cleaned": true
+        },
+        "mug": {
+            "Cleaned": false
+        }
+    },
+    "46547643d4cb0b1b_7982": {
+        "plate": {
+            "location": "Cabinet",
+            "quantity": "1",
+            "quantity_of_slices": "2",
+            "Cleaned": false
+        },
+        "tomato": {
+            "location": "X",
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        }
+    },
+    "4172a54d5aaf32a7_421c": {
+        "lettuce": {
+            "location": "Shelf",
+            "quantity": "X",
+            "quantity_of_slices": "2"
+        },
+        "plate": {
+            "location": "Toaster",
+            "quantity": "X",
+            "Cleaned": false
+        }
+    },
+    "66a2b3be9faab959_4530": {
+        "tomato": {
+            "location": "CounterTop",
+            "quantity": 1,
+            "quantity_of_slices": 1
+        },
+        "plate": {
+            "location": "Cabinet",
+            "quantity": "X",
+            "quantity_of_slices": "X",
+            "Cleaned": false
+        }
+    },
+    "cab79739695381c7_98ee": {
+        "lettuce": {
+            "location": "Plate",
+            "quantity": 3,
+            "quantity_of_slices": 1
+        },
+        "knife": {
+            "location": "Lettuce"
+        },
+        "plate": {
+            "location": "Cabinet",
+            "Cleaned": false
+        }
+    },
+    "18f6da623ba658a2_aa07": {
+        "potato": {
+            "location": "Pot",
+            "quantity": 1,
+            "quantity_of_slices": 1
+        },
+        "knife": {
+            "location": "Shelf",
+            "quantity": 1
+        },
+        "pan": {
+            "location": "Cabinet",
+            "quantity": 1
+        },
+        "bowl": {
+            "location": "Cabinet",
+            "quantity": 1,
+            "Cleaned": false
+        }
+    },
+    "977b52faf01e6c05_2895": {
+        "potato": {
+            "location": "Sink",
+            "quantity": 1,
+            "quantity_of_slices": 2
+        },
+        "knife": {
+            "location": "Fridge",
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        },
+        "bowl": {
+            "location": "Shelf",
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        },
+        "pan": {
+            "location": "X",
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        }
+    },
+    "18f6da623ba658a2_81b3": {
+        "potato": {
+            "location": "Pot",
+            "quantity": "1",
+            "quantity_of_slices": "1"
+        },
+        "knife": {
+            "location": "CoffeeMachine"
+        },
+        "bowl": {
+            "Cleaned": false
+        }
+    },
+    "4e8496b9f642bba0_2e3d": {
+        "potato": {
+            "location": "Chair",
+            "quantity": 1,
+            "quantity_of_slices": 2
+        },
+        "knife": {
+            "location": "CounterTop",
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        },
+        "bowl": {
+            "location": "X",
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        }
+    },
+    "5026400c43e20c2d_d3fc": {
+        "potato": {
+            "location": "Sink",
+            "quantity": 1,
+            "quantity_of_slices": 2
+        },
+        "knife": {
+            "location": "Sink",
+            "quantity": 1
+        },
+        "pot": {
+            "location": "Floor"
+        },
+        "bowl": {
+            "location": "Fridge",
+            "Cleaned": true
+        },
+        "plate": {
+            "Cleaned": false
+        }
+    },
+    "0de4b62afcd06138_78ea": {
+        "potato": {
+            "location": "GarbageCan",
+            "quantity": 1,
+            "quantity_of_slices": 2
+        },
+        "plate": {
+            "location": "GarbageCan",
+            "quantity": 1,
+            "Cleaned": true
+        }
+    },
+    "92ec5d9ad47a53b8_d3c5": {
+        "potato": {
+            "location": "X",
+            "quantity": 2,
+            "quantity_of_slices": 2
+        },
+        "plate": {
+            "location": "TableTopDecor",
+            "quantity": 1,
+            "Cleaned": false
+        }
+    },
+    "59d897f4009147d8_fa60": {
+        "potato": {
+            "location": "Shelf",
+            "quantity": "3",
+            "quantity_of_slices": "3"
+        },
+        "knife": {
+            "location": "Sink"
+        },
+        "bowl": {
+            "location": "Shelf",
+            "Cleaned": false
+        }
+    },
+    "0de4b62afcd06138_45f2": {
+        "potato": {
+            "location": "Shelf",
+            "quantity": "1",
+            "quantity_of_slices": "2"
+        },
+        "plate": {
+            "location": "GarbageCan",
+            "quantity": "1",
+            "Cleaned": false
+        },
+        "toaster": {
+            "location": "Mug",
+            "quantity": "1",
+            "Cleaned": true
+        }
+    },
+    "0de4b62afcd06138_f2bb": {
+        "potato": {
+            "location": "X",
+            "quantity": 2,
+            "quantity_of_slices": 2
+        },
+        "plate": {
+            "location": "GarbageCan",
+            "quantity": "X",
+            "quantity_of_slices": "X",
+            "Cleaned": true
+        },
+        "mug": {
+            "location": "X",
+            "quantity": "X",
+            "quantity_of_slices": "X",
+            "Cleaned": false
+        }
+    },
+    "1fefbf1fb30901cd_4a9b": {
+        "potato": {
+            "location": "Shelf",
+            "quantity": "X",
+            "quantity_of_slices": 5
+        },
+        "plate": {
+            "location": "Fridge",
+            "quantity": "X",
+            "quantity_of_slices": "X",
+            "Cleaned": true
+        }
+    },
+    "8bdbfe4a8e2e8fd7_9f15": {
+        "potato": {
+            "location": "Shelf",
+            "quantity": "1",
+            "quantity_of_slices": "2"
+        },
+        "bowl": {
+            "location": "X",
+            "quantity": "X",
+            "quantity_of_slices": "X",
+            "Cleaned": false
+        },
+        "plate": {
+            "location": "Sink",
+            "quantity": "1",
+            "quantity_of_slices": "2",
+            "Cleaned": true
+        },
+        "sink": {
+            "location": "X",
+            "quantity": "X",
+            "quantity_of_slices": "X",
+            "Cleaned": false
+        }
+    },
+    "fb7d765ba6874372_0a26": {
+        "potato": {
+            "location": "GarbageCan",
+            "quantity": "1",
+            "quantity_of_slices": "1"
+        },
+        "plate": {
+            "location": "X",
+            "quantity": "1",
+            "quantity_of_slices": "3",
+            "Cleaned": true
+        },
+        "mug": {
+            "location": "X",
+            "quantity": "X",
+            "quantity_of_slices": "X",
+            "Cleaned": false
+        }
+    },
+    "fb7d765ba6874372_db67": {
+        "potato": {
+            "location": "BasketBall",
+            "quantity": 1,
+            "quantity_of_slices": 1
+        },
+        "plate": {
+            "location": "CounterTop",
+            "quantity": 1,
+            "Cleaned": false
+        }
+    },
+    "cfeaec72e93dcf3f_bac0": {
+        "potato": {
+            "location": "Fridge",
+            "quantity": 1,
+            "quantity_of_slices": "X"
+        },
+        "pan": {
+            "location": "StoveBurner",
+            "quantity": 1,
+            "Cleaned": false
+        },
+        "mug": {
+            "location": "Pot",
+            "quantity": "X",
+            "Cleaned": true
+        },
+        "bowl": {
+            "location": "CounterTop",
+            "quantity": 1,
+            "Cleaned": true
+        }
+    },
+    "18f6da623ba658a2_9f53": {
+        "potato": {
+            "location": "CounterTop",
+            "quantity": "1",
+            "quantity_of_slices": "1"
+        },
+        "knife": {
+            "location": "CoffeeMachine"
+        },
+        "plate": {
+            "Cleaned": false
+        },
+        "mug": {
+            "Cleaned": false
+        },
+        "bowl": {
+            "Cleaned": false
+        },
+        "pan": {
+            "location": "Toaster"
+        }
+    },
+    "c7cc40993ef8468b_ad24": {
+        "potato": {
+            "location": "Toaster",
+            "quantity": 2,
+            "quantity_of_slices": 2
+        },
+        "knife": {
+            "location": "Cabinet",
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        },
+        "bowl": {
+            "location": "Sink",
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        }
+    },
+    "fb7d765ba6874372_06ed": {
+        "potato": {
+            "location": "GarbageCan",
+            "quantity": 1,
+            "quantity_of_slices": 1
+        },
+        "plate": {
+            "location": "Fridge",
+            "quantity": "X",
+            "quantity_of_slices": "X",
+            "Cleaned": false
+        }
+    },
+    "92ec5d9ad47a53b8_fd17": {
+        "potato": {
+            "location": "TableTopDecor",
+            "quantity": "1",
+            "quantity_of_slices": "2"
+        },
+        "plate": {
+            "location": "X",
+            "quantity": "1",
+            "Cleaned": true
+        },
+        "knife": {
+            "location": "Fridge",
+            "quantity": "1",
+            "Cleaned": false
+        }
+    },
+    "fb7d765ba6874372_d8c8": {
+        "potato": {
+            "location": "Drawer",
+            "quantity": "1",
+            "quantity_of_slices": "1"
+        },
+        "plate": {
+            "location": "Fridge",
+            "quantity": "X",
+            "quantity_of_slices": "X",
+            "Cleaned": false
+        }
+    },
+    "977b52faf01e6c05_d71f": {
+        "potato": {
+            "location": "Sink",
+            "quantity": 1,
+            "quantity_of_slices": 2
+        },
+        "microwave": {
+            "location": "X"
+        },
+        "knife": {
+            "location": "GarbageCan"
+        },
+        "bowl": {
+            "location": "Shelf",
+            "quantity": 1
+        }
+    },
+    "cb0e41e1b364ad27_9a72": {
+        "Potato": {
+            "location": "Shelf",
+            "quantity": "X",
+            "quantity_of_slices": 3
+        },
+        "Pan": {
+            "location": "TableTopDecor",
+            "quantity": "X",
+            "Cleaned": false
+        },
+        "Plate": {
+            "location": "Cabinet",
+            "quantity": "X",
+            "Cleaned": true
+        }
+    },
+    "1fefbf1fb30901cd_4ae7": {
+        "potato": {
+            "location": "Pot",
+            "quantity": "1",
+            "quantity_of_slices": "5"
+        },
+        "plate": {
+            "location": "Chair",
+            "quantity": "1",
+            "Cleaned": false
+        },
+        "mug": {
+            "location": "X",
+            "quantity": "X",
+            "Cleaned": false
+        }
+    },
+    "6ccc8b815fbc093a_5865": {
+        "potato": {
+            "location": "StoveBurner",
+            "quantity": 5,
+            "quantity_of_slices": 5
+        },
+        "plate": {
+            "location": "Chair",
+            "quantity": 1,
+            "Cleaned": true
+        }
+    },
+    "18f6da623ba658a2_1091": {
+        "potato": {
+            "location": "Sink",
+            "quantity": "1",
+            "quantity_of_slices": "1"
+        },
+        "knife": {
+            "location": "CoffeeMachine",
+            "quantity": "1"
+        },
+        "bowl": {
+            "location": "Cabinet",
+            "quantity": "1",
+            "Cleaned": true
+        }
+    },
+    "064a69cb5d40b41f_16f3": {
+        "potato": {
+            "location": "Shelf",
+            "quantity": "1",
+            "quantity_of_slices": "5"
+        },
+        "knife": {
+            "location": "X",
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        },
+        "plate": {
+            "location": "Fridge",
+            "quantity": "1",
+            "quantity_of_slices": "X",
+            "Cleaned": true
+        },
+        "mug": {
+            "location": "X",
+            "quantity": "X",
+            "quantity_of_slices": "X",
+            "Cleaned": false
+        }
+    },
+    "6ccc8b815fbc093a_5cca": {
+        "potato": {
+            "location": "Pot",
+            "quantity": "1",
+            "quantity_of_slices": "X"
+        },
+        "plate": {
+            "location": "Fridge",
+            "quantity": "1",
+            "quantity_of_slices": "5",
+            "Cleaned": false
+        }
+    },
+    "0de4b62afcd06138_e549": {
+        "potato": {
+            "location": "ShelvingUnit",
+            "quantity": "1",
+            "quantity_of_slices": "2"
+        },
+        "knife": {
+            "location": "Chair",
+            "quantity": "1"
+        },
+        "plate": {
+            "location": "Cabinet",
+            "quantity": "1",
+            "Cleaned": false
+        },
+        "mug": {
+            "Cleaned": true
+        }
+    },
+    "fb7d765ba6874372_2361": {
+        "potato": {
+            "location": "GarbageCan",
+            "quantity": "1",
+            "quantity_of_slices": "1"
+        },
+        "knife": {
+            "location": "CounterTop",
+            "quantity": "1"
+        },
+        "plate": {
+            "location": "Fridge",
+            "quantity": "1",
+            "Cleaned": false
+        },
+        "microwave": {
+            "location": "X",
+            "quantity": "X"
+        }
+    },
+    "6ccc8b815fbc093a_f35e": {
+        "potato": {
+            "location": "GarbageCan",
+            "quantity": "X",
+            "quantity_of_slices": "5"
+        },
+        "plate": {
+            "location": "Fridge",
+            "quantity": "X",
+            "quantity_of_slices": "X",
+            "Cleaned": true
+        }
+    },
+    "6ccc8b815fbc093a_e921": {
+        "potato": {
+            "location": "Shelf",
+            "quantity": 1,
+            "quantity_of_slices": "X"
+        },
+        "pan": {
+            "location": "StoveBurner",
+            "quantity": 1,
+            "quantity_of_slices": "X"
+        },
+        "knife": {
+            "location": "CounterTop",
+            "quantity": 1,
+            "quantity_of_slices": "X"
+        },
+        "plate": {
+            "location": "CounterTop",
+            "quantity": 2,
+            "quantity_of_slices": 5,
+            "Cleaned": false
+        }
+    },
+    "4e8496b9f642bba0_378e": {
+        "potato": {
+            "location": "StoveBurner",
+            "quantity": "1",
+            "quantity_of_slices": "2"
+        },
+        "knife": {
+            "location": "GarbageCan",
+            "quantity": "1"
+        },
+        "cup": {
+            "location": "Pot",
+            "quantity": "1",
+            "Cleaned": true
+        },
+        "bowl": {
+            "location": "Kitchen",
+            "quantity": "1",
+            "Cleaned": false
+        }
+    },
+    "cfeaec72e93dcf3f_ee10": {
+        "Potato": {
+            "location": "Appliance",
+            "quantity": 1,
+            "quantity_of_slices": 2
+        },
+        "Bowl": {
+            "location": "Drawer",
+            "quantity": 1,
+            "quantity_of_slices": 2,
+            "Cleaned": true
+        }
+    },
+    "af3fc77ab8313235_5b72": {
+        "potato": {
+            "location": "X",
+            "quantity": "X",
+            "quantity_of_slices": 3
+        },
+        "knife": {
+            "location": "Sink",
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        },
+        "plate": {
+            "location": "Toaster",
+            "quantity": "X",
+            "quantity_of_slices": "X",
+            "Cleaned": true
+        },
+        "microwave": {
+            "location": "X",
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        },
+        "pan": {
+            "location": "X",
+            "quantity": "X",
+            "quantity_of_slices": "X",
+            "Cleaned": false
+        },
+        "stove": {
+            "location": "X",
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        }
+    },
+    "064a69cb5d40b41f_9c2e": {
+        "potato": {
+            "location": "Drawer",
+            "quantity": "X",
+            "quantity_of_slices": 5
+        },
+        "plate": {
+            "location": "Fridge",
+            "quantity": "X",
+            "quantity_of_slices": "X",
+            "Cleaned": true
+        }
+    },
+    "59d897f4009147d8_6c21": {
+        "potato": {
+            "location": "GarbageCan",
+            "quantity": "1",
+            "quantity_of_slices": "3"
+        },
+        "bowl": {
+            "location": "Shelf",
+            "Cleaned": true
+        },
+        "salt shaker": {
+            "location": "Bowl"
+        },
+        "pan": {
+            "location": "Cabinet"
+        }
+    },
+    "064a69cb5d40b41f_9237": {
+        "potato": {
+            "location": "StoveBurner",
+            "quantity": "1",
+            "quantity_of_slices": "5"
+        },
+        "tomato": {
+            "location": "X",
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        },
+        "plate": {
+            "location": "Chair",
+            "quantity": "1",
+            "quantity_of_slices": "X",
+            "Cleaned": false
+        },
+        "sices": {
+            "location": "X",
+            "quantity": "X",
+            "quantity_of_slices": "5"
+        }
+    },
+    "c7cc40993ef8468b_3e7b": {
+        "potato": {
+            "location": "X",
+            "quantity": 2,
+            "quantity_of_slices": 2
+        },
+        "knife": {
+            "location": "Drawer",
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        },
+        "microwave": {
+            "location": "X",
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        },
+        "bowl": {
+            "location": "X",
+            "quantity": "X",
+            "quantity_of_slices": "X",
+            "Cleaned": true
+        }
+    },
+    "59d897f4009147d8_1d27": {
+        "potato": {
+            "location": "Sink",
+            "quantity": "1",
+            "quantity_of_slices": "3"
+        },
+        "knife": {
+            "location": "Sink",
+            "quantity": "1"
+        },
+        "pan": {
+            "location": "Cabinet",
+            "quantity": "1",
+            "Cleaned": false
+        },
+        "bowl": {
+            "location": "Shelf",
+            "quantity": "1",
+            "Cleaned": true
+        }
+    },
+    "6ccc8b815fbc093a_213a": {
+        "potato": {
+            "location": "Pot",
+            "quantity": "1",
+            "quantity_of_slices": "5"
+        },
+        "knife": {
+            "location": "Toaster",
+            "quantity": "1"
+        },
+        "plate": {
+            "location": "Chair",
+            "quantity": "1",
+            "Cleaned": true
+        },
+        "mug": {
+            "Cleaned": false
+        }
+    },
+    "4e8496b9f642bba0_36f1": {
+        "potato": {
+            "location": "Microwave",
+            "quantity": 1,
+            "quantity_of_slices": 2
+        },
+        "bowl": {
+            "location": "Kitchen",
+            "quantity": 1,
+            "Cleaned": true
+        }
+    },
+    "064a69cb5d40b41f_f773": {
+        "potato": {
+            "location": "Shelf",
+            "quantity": 5,
+            "quantity_of_slices": 5
+        },
+        "knife": {
+            "location": "StoveBurner"
+        },
+        "plate": {
+            "location": "Fridge",
+            "Cleaned": true
+        }
+    },
+    "977b52faf01e6c05_ba05": {
+        "potato": {
+            "location": "CounterTop",
+            "quantity": 1,
+            "quantity_of_slices": 2
+        },
+        "knife": {
+            "location": "Fridge",
+            "quantity": 1
+        },
+        "bowl": {
+            "location": "Shelf",
+            "quantity": 1,
+            "Cleaned": false
+        }
+    },
+    "cb0e41e1b364ad27_6591": {
+        "potato": {
+            "location": "X",
+            "quantity": 3,
+            "quantity_of_slices": 3
+        },
+        "plate": {
+            "location": "X",
+            "Cleaned": true
+        }
+    },
+    "977b52faf01e6c05_ebe0": {
+        "potato": {
+            "location": "Sink",
+            "quantity": 2,
+            "quantity_of_slices": "X"
+        },
+        "knife": {
+            "location": "Fridge",
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        },
+        "microwave": {
+            "location": "X",
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        },
+        "bowl": {
+            "location": "ShelvingUnit",
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        }
+    },
+    "59d897f4009147d8_7959": {
+        "potato": {
+            "location": "Sink",
+            "quantity": "1",
+            "quantity_of_slices": "3"
+        },
+        "knife": {
+            "location": "Sink",
+            "quantity": "1"
+        },
+        "pot": {
+            "location": "X",
+            "quantity": "X"
+        },
+        "bowl": {
+            "location": "Shelf",
+            "quantity": "1"
+        }
+    },
+    "6ccc8b815fbc093a_3e3a": {
+        "potato": {
+            "location": "X",
+            "quantity": 5,
+            "quantity_of_slices": 5
+        },
+        "plate": {
+            "location": "Fridge",
+            "Cleaned": true
+        },
+        "knife": {
+            "location": "CounterTop"
+        }
+    },
+    "6ccc8b815fbc093a_8d69": {
+        "potato": {
+            "location": "X",
+            "quantity": "5",
+            "quantity_of_slices": "X"
+        },
+        "knife": {
+            "location": "Fridge",
+            "quantity": "2",
+            "quantity_of_slices": "X"
+        },
+        "plate": {
+            "location": "Chair",
+            "quantity": "2",
+            "quantity_of_slices": "X",
+            "Cleaned": true
+        }
+    },
+    "cfeaec72e93dcf3f_8fc5": {
+        "potato": {
+            "location": "X",
+            "quantity": 1,
+            "quantity_of_slices": 2
+        },
+        "bowl": {
+            "location": "X",
+            "quantity": 1,
+            "Cleaned": false
+        }
+    },
+    "15fa5e0caaf6a06f_81e4": {
+        "tomato": {
+            "location": "X",
+            "quantity": 1,
+            "quantity_of_slices": 1
+        },
+        "plate": {
+            "location": "X",
+            "quantity": 1,
+            "Cleaned": true
+        }
+    },
+    "b63078c7b3e28f59_355d": {
+        "bowl": {
+            "location": "X",
+            "quantity": "3",
+            "quantity_of_slices": "1",
+            "Cleaned": true
+        },
+        "tomato": {
+            "location": "X",
+            "quantity": "X",
+            "quantity_of_slices": "1"
+        },
+        "knife": {
+            "location": "Cabinet",
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        },
+        "plate": {
+            "location": "X",
+            "quantity": "X",
+            "quantity_of_slices": "X",
+            "Cleaned": false
+        },
+        "mug": {
+            "location": "X",
+            "quantity": "X",
+            "quantity_of_slices": "X",
+            "Cleaned": false
+        }
+    },
+    "a82cd949493bada0_0827": {
+        "tomato": {
+            "location": "X",
+            "quantity": 1,
+            "quantity_of_slices": 1
+        },
+        "knife": {
+            "location": "Sink",
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        },
+        "plate": {
+            "location": "Fridge",
+            "quantity": "X",
+            "quantity_of_slices": "X",
+            "Cleaned": true
+        }
+    },
+    "4724a0e4ce59bf4e_ebec": {
+        "plate": {
+            "location": "Cabinet",
+            "quantity": "1",
+            "Cleaned": true
+        },
+        "lettuce": {
+            "location": "Fridge",
+            "quantity": "2",
+            "quantity_of_slices": "3"
+        }
+    },
+    "e455dbf27ecaf413_8484": {
+        "tomato": {
+            "location": "ShelvingUnit",
+            "quantity": "1",
+            "quantity_of_slices": "1"
+        },
+        "knife": {
+            "location": "Cabinet",
+            "quantity": "1",
+            "quantity_of_slices": "X"
+        },
+        "plate": {
+            "location": "Cabinet",
+            "quantity": "1",
+            "quantity_of_slices": "X",
+            "Cleaned": false
+        }
+    },
+    "bfa7505b440eadde_7fab": {
+        "lettuce": {
+            "location": "X",
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        },
+        "plate": {
+            "location": "ShelvingUnit",
+            "quantity": "1",
+            "quantity_of_slices": "X",
+            "Cleaned": true
+        }
+    },
+    "bfa7505b440eadde_b257": {
+        "lettuce": {
+            "location": "X",
+            "quantity": "X",
+            "quantity_of_slices": "3"
+        },
+        "knife": {
+            "location": "Fridge",
+            "quantity": "1",
+            "quantity_of_slices": "X"
+        },
+        "plate": {
+            "location": "Shelf",
+            "quantity": "1",
+            "quantity_of_slices": "X",
+            "Cleaned": false
+        }
+    },
+    "35351038f6f3be3b_ee9a": {
+        "tomato": {
+            "location": "X",
+            "quantity": "1",
+            "quantity_of_slices": "1"
+        },
+        "bowl": {
+            "location": "StoveBurner",
+            "quantity": "X",
+            "Cleaned": true
+        },
+        "fridge": {
+            "location": "X",
+            "quantity": "X"
+        }
+    },
+    "8b2af8ba42ca5cae_913a": {
+        "tomato": {
+            "location": "BasketBall",
+            "quantity": 1,
+            "quantity_of_slices": 1
+        },
+        "knife": {
+            "location": "Sink",
+            "quantity": 1
+        },
+        "bowl": {
+            "location": "Fridge",
+            "quantity": 1,
+            "Cleaned": true
+        }
+    },
+    "a01d8c5e515fa9c4_c871": {
+        "tomato": {
+            "location": "X",
+            "quantity": 1,
+            "quantity_of_slices": 1
+        },
+        "bowl": {
+            "location": "X",
+            "quantity": 1,
+            "Cleaned": true
+        }
+    },
+    "57fed82c1a4670eb_5594": {
+        "Tomato": {
+            "location": "ShelvingUnit",
+            "quantity": 1,
+            "quantity_of_slices": 2
+        },
+        "Bowl": {
+            "location": "CounterTop",
+            "quantity": "X",
+            "Cleaned": true
+        }
+    },
+    "635e198a7d20c011_290c": {
+        "tomato": {
+            "location": "Sink",
+            "quantity": "1",
+            "quantity_of_slices": "2"
+        },
+        "knife": {
+            "location": "Shelf",
+            "quantity": "1"
+        },
+        "platter": {
+            "location": "Cabinet",
+            "quantity": "1",
+            "Cleaned": false
+        }
+    },
+    "a800b94ef5813e01_14fc": {
+        "plate": {
+            "location": "X",
+            "quantity": 1,
+            "Cleaned": true
+        },
+        "tomato": {
+            "location": "X",
+            "quantity": "X",
+            "quantity_of_slices": 1
+        }
+    },
+    "71392179ff5e728f_0589": {
+        "plate": {
+            "location": "X",
+            "quantity": "X",
+            "quantity_of_slices": "X",
+            "Cleaned": true
+        },
+        "tomato": {
+            "location": "X",
+            "quantity": "X",
+            "quantity_of_slices": "1"
+        },
+        "mug": {
+            "location": "X",
+            "quantity": "X",
+            "quantity_of_slices": "X",
+            "Cleaned": false
+        }
+    },
+    "88f8ad0d2d356270_582c": {
+        "tomato": {
+            "location": "Sink",
+            "quantity": "1",
+            "quantity_of_slices": "2"
+        },
+        "knife": {
+            "location": "Sink",
+            "quantity": "1"
+        },
+        "plate": {
+            "location": "Cabinet",
+            "quantity": "1",
+            "Cleaned": false
+        }
+    },
+    "dbb41344c474217f_ee0e": {
+        "bowl": {
+            "location": "X",
+            "quantity": 1,
+            "quantity_of_slices": "X",
+            "Cleaned": false
+        },
+        "tomato": {
+            "location": "X",
+            "quantity": "X",
+            "quantity_of_slices": 1,
+            "Cleaned": false
+        },
+        "plate": {
+            "location": "X",
+            "quantity": "X",
+            "quantity_of_slices": "X",
+            "Cleaned": false
+        },
+        "mug": {
+            "location": "X",
+            "quantity": "X",
+            "quantity_of_slices": "X",
+            "Cleaned": false
+        }
+    },
+    "ead15601840c5c2c_9274": {
+        "tomato": {
+            "location": "Bowl",
+            "quantity": 1,
+            "quantity_of_slices": 1
+        },
+        "knife": {
+            "location": "Sink",
+            "quantity": 1
+        },
+        "bowl": {
+            "location": "Fridge",
+            "quantity": 1,
+            "Cleaned": false
+        }
+    },
+    "464fb2558d308797_5a27": {
+        "tomato": {
+            "location": "StoveBurner",
+            "quantity": "1",
+            "quantity_of_slices": "1"
+        },
+        "knife": {
+            "location": "Sink"
+        },
+        "plate": {
+            "location": "CounterTop",
+            "Cleaned": true
+        }
+    },
+    "05a5b8e82c4d198e_a899": {
+        "tomato": {
+            "location": "Sink",
+            "quantity": 1,
+            "quantity_of_slices": 0
+        },
+        "knife": {
+            "location": "Fridge",
+            "quantity": 1,
+            "quantity_of_slices": 0
+        },
+        "plate": {
+            "location": "Cabinet",
+            "quantity": 2,
+            "quantity_of_slices": 0,
+            "Cleaned": true
+        }
+    },
+    "5137d19bef7042ba_8f1b": {
+        "plate": {
+            "location": "X",
+            "quantity": 1,
+            "quantity_of_slices": 2,
+            "Cleaned": true
+        },
+        "tomato": {
+            "location": "X",
+            "quantity": "X",
+            "quantity_of_slices": 2
+        },
+        "knife": {
+            "location": "Fridge",
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        }
+    },
+    "5aa3cbd322d4f163_402a": {
+        "plate": {
+            "location": "X",
+            "quantity": 1,
+            "Cleaned": true
+        },
+        "tomato": {
+            "location": "Cabinet",
+            "quantity": "X",
+            "quantity_of_slices": 1
+        }
+    },
+    "71392179ff5e728f_d7fe": {
+        "tomato": {
+            "location": "Cabinet",
+            "quantity": "1",
+            "quantity_of_slices": "1"
+        },
+        "knife": {
+            "location": "Sink",
+            "quantity": "1"
+        },
+        "plate": {
+            "location": "Fridge",
+            "quantity": "1",
+            "Cleaned": false
+        }
+    },
+    "c2787b38615034c6_6175": {
+        "tomato": {
+            "location": "Sink",
+            "quantity": 1,
+            "quantity_of_slices": 1
+        },
+        "bowl": {
+            "location": "CounterTop",
+            "quantity": 1,
+            "Cleaned": true
+        }
+    },
+    "05a5b8e82c4d198e_0675": {
+        "tomato": {
+            "location": "Sink",
+            "quantity": "1",
+            "quantity_of_slices": "1"
+        },
+        "knife": {
+            "location": "Chair",
+            "quantity": "1"
+        },
+        "plate": {
+            "location": "Cabinet",
+            "quantity": "1",
+            "Cleaned": false
+        },
+        "mug": {
+            "Cleaned": false
+        },
+        "potato": {
+            "location": "X",
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        }
+    },
+    "15fa5e0caaf6a06f_46f8": {
+        "tomato": {
+            "location": "Fridge",
+            "quantity": 1,
+            "quantity_of_slices": 1
+        },
+        "plate": {
+            "location": "StoveBurner",
+            "quantity": "X",
+            "quantity_of_slices": "X",
+            "Cleaned": false
+        },
+        "knife": {
+            "location": "CoffeeMachine",
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        },
+        "coffee machine": {
+            "location": "X",
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        },
+        "stove": {
+            "location": "X",
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        }
+    },
+    "92f554e515caa159_4d16": {
+        "tomato": {
+            "location": "Cabinet",
+            "quantity": "1",
+            "quantity_of_slices": "X"
+        },
+        "knife": {
+            "location": "Cabinet",
+            "quantity": "1",
+            "quantity_of_slices": "X"
+        },
+        "bowl": {
+            "location": "Chair",
+            "quantity": "1",
+            "quantity_of_slices": "1",
+            "Cleaned": false
+        }
+    },
+    "47f966f6920a05d6_742e": {
+        "tomato": {
+            "location": "Cabinet",
+            "quantity": "1",
+            "quantity_of_slices": "2"
+        },
+        "knife": {
+            "location": "GarbageCan",
+            "quantity": "2"
+        },
+        "plate": {
+            "location": "Fridge",
+            "quantity": "1",
+            "Cleaned": false
+        }
+    },
+    "2f8d482d22e56fdd_410e": {
+        "lettuce": {
+            "location": "X",
+            "quantity": "X",
+            "quantity_of_slices": 1
+        },
+        "knife": {
+            "location": "CoffeeMachine",
+            "quantity": "X",
+            "Cleaned": false
+        },
+        "plate": {
+            "location": "Sink",
+            "quantity": "X",
+            "Cleaned": true
+        }
+    },
+    "2f8d482d22e56fdd_3e5c": {
+        "plate": {
+            "location": "X",
+            "quantity": 1,
+            "Cleaned": true
+        },
+        "lettuce": {
+            "location": "X",
+            "quantity": "X",
+            "quantity_of_slices": 1
+        },
+        "mug": {
+            "location": "X",
+            "quantity": "X",
+            "Cleaned": false
+        },
+        "potato": {
+            "location": "X",
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        }
+    },
+    "d8034826803791df_10bf": {
+        "tomato": {
+            "location": "Chair",
+            "quantity": "1",
+            "quantity_of_slices": "2"
+        },
+        "knife": {
+            "location": "Fridge",
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        },
+        "bowl": {
+            "location": "CounterTop",
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        },
+        "plate": {
+            "location": "X",
+            "quantity": "X",
+            "quantity_of_slices": "X",
+            "Cleaned": false
+        },
+        "mug": {
+            "location": "X",
+            "quantity": "X",
+            "quantity_of_slices": "X",
+            "Cleaned": false
+        }
+    },
+    "eb4e4611871c24cb_8467": {
+        "tomato": {
+            "location": "Fridge",
+            "quantity": 2,
+            "quantity_of_slices": 2
+        },
+        "knife": {
+            "location": "StoveBurner"
+        },
+        "plate": {
+            "location": "Shelf",
+            "Cleaned": false
+        }
+    },
+    "e455dbf27ecaf413_4c4d": {
+        "tomato": {
+            "location": "Shelf",
+            "quantity": 1,
+            "quantity_of_slices": 1
+        },
+        "plate": {
+            "location": "Cabinet",
+            "quantity": 1,
+            "quantity_of_slices": "X",
+            "Cleaned": false
+        }
+    },
+    "4d58ce33df0d437a_4a84": {
+        "tomato": {
+            "location": "X",
+            "quantity": "1",
+            "quantity_of_slices": "1"
+        },
+        "knife": {
+            "location": "GarbageCan",
+            "quantity": "1",
+            "Cleaned": false
+        },
+        "plate": {
+            "location": "Chair",
+            "quantity": "1",
+            "Cleaned": true
+        }
+    },
+    "a01d8c5e515fa9c4_0404": {
+        "tomato": {
+            "location": "X",
+            "quantity": "X",
+            "quantity_of_slices": "1"
+        },
+        "knife": {
+            "location": "Sink",
+            "quantity": "X",
+            "Cleaned": false
+        },
+        "bowl": {
+            "location": "Sink",
+            "quantity": "X",
+            "Cleaned": true
+        }
+    },
+    "13c9487a42718fd2_86a2": {
+        "knife": {
+            "location": "Sink",
+            "quantity": 1
+        },
+        "tomato": {
+            "location": "Sink",
+            "quantity": 1,
+            "quantity_of_slices": 1
+        },
+        "plate": {
+            "location": "Fridge",
+            "quantity": 1,
+            "Cleaned": true
+        }
+    },
+    "a259c276e58a6548_0c8d": {
+        "tomato": {
+            "location": "Cabinet",
+            "quantity": 1,
+            "quantity_of_slices": 1
+        },
+        "knife": {
+            "location": "Sink"
+        },
+        "bowl": {
+            "location": "Sink",
+            "Cleaned": true
+        }
+    },
+    "464fb2558d308797_4110": {
+        "tomato": {
+            "location": "X",
+            "quantity": "1",
+            "quantity_of_slices": "1"
+        },
+        "plate": {
+            "location": "Sink",
+            "quantity": "1",
+            "quantity_of_slices": "X",
+            "Cleaned": true
+        }
+    },
+    "41f5a3a613dbcfdb_ee75": {
+        "tomato": {
+            "location": "Chair",
+            "quantity": "1",
+            "quantity_of_slices": "2"
+        },
+        "knife": {
+            "location": "GarbageCan",
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        },
+        "bowl": {
+            "location": "X",
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        }
+    },
+    "75a59f83a279bd78_fb03": {
+        "bowl": {
+            "location": "Shelf",
+            "quantity": 1,
+            "Cleaned": true
+        },
+        "tomato": {
+            "location": "X",
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        },
+        "knife": {
+            "location": "Fridge",
+            "quantity": 1,
+            "Cleaned": false
+        }
+    },
+    "ebfee5958718511d_fbbd": {
+        "tomato": {
+            "location": "Shelf",
+            "quantity": "1",
+            "quantity_of_slices": "1"
+        },
+        "plate": {
+            "location": "Fridge",
+            "quantity": "1",
+            "Cleaned": true
+        },
+        "knife": {
+            "location": "Fridge",
+            "quantity": "1"
+        }
+    },
+    "1e8fb21f2b41b0b0_db8b": {
+        "tomato": {
+            "location": "X",
+            "quantity": "X",
+            "quantity_of_slices": 1
+        },
+        "bowl": {
+            "location": "Drawer",
+            "quantity": "X",
+            "Cleaned": true
+        },
+        "knife": {
+            "location": "Fridge",
+            "quantity": "X"
+        },
+        "plate": {
+            "location": "X",
+            "quantity": "X",
+            "Cleaned": false
+        },
+        "mug": {
+            "location": "X",
+            "quantity": "X",
+            "Cleaned": false
+        }
+    },
+    "bfa7505b440eadde_750f": {
+        "plate": {
+            "location": "Shelf",
+            "quantity": 1,
+            "quantity_of_slices": 3,
+            "Cleaned": false
+        },
+        "lettuce": {
+            "location": "Plate",
+            "quantity": "X",
+            "quantity_of_slices": 3
+        },
+        "mug": {
+            "location": "X",
+            "quantity": "X",
+            "Cleaned": false
+        },
+        "potato": {
+            "location": "X",
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        }
+    },
+    "a82cd949493bada0_ffe5": {
+        "tomato": {
+            "location": "X",
+            "quantity": 1,
+            "quantity_of_slices": 1
+        },
+        "plate": {
+            "location": "X",
+            "quantity": 1,
+            "Cleaned": true
+        }
+    },
+    "498d06abfb7e9487_5c19": {
+        "plate": {
+            "location": "X",
+            "quantity": 1,
+            "Cleaned": true
+        },
+        "tomato": {
+            "location": "X",
+            "quantity": "X",
+            "quantity_of_slices": 2
+        },
+        "mug": {
+            "location": "X",
+            "quantity": "X",
+            "Cleaned": false
+        },
+        "potato": {
+            "location": "X",
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        }
+    },
+    "a0a3d513813c534a_e128": {
+        "tomato": {
+            "location": "Fridge",
+            "quantity": 1,
+            "quantity_of_slices": 2
+        },
+        "plate": {
+            "Cleaned": false
+        }
+    },
+    "5aa3cbd322d4f163_3bda": {
+        "tomato": {
+            "location": "Desk",
+            "quantity": "1",
+            "quantity_of_slices": "1"
+        },
+        "knife": {
+            "location": "Desk",
+            "quantity": "1",
+            "quantity_of_slices": "X"
+        },
+        "plate": {
+            "location": "Sink",
+            "quantity": "1",
+            "quantity_of_slices": "X",
+            "Cleaned": true
+        }
+    },
+    "2e0219649e0f3030_75e3": {
+        "tomato": {
+            "location": "Cabinet",
+            "quantity": "X",
+            "quantity_of_slices": 3
+        },
+        "knife": {
+            "location": "Sink",
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        },
+        "plate": {
+            "location": "Sink",
+            "quantity": "X",
+            "quantity_of_slices": "X",
+            "Cleaned": true
+        },
+        "mug": {
+            "location": "X",
+            "quantity": "X",
+            "quantity_of_slices": "X",
+            "Cleaned": false
+        }
+    },
+    "1e8fb21f2b41b0b0_bc36": {
+        "tomato": {
+            "location": "X",
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        },
+        "knife": {
+            "location": "Fridge",
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        },
+        "lettuce": {
+            "location": "X",
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        },
+        "bread": {
+            "location": "X",
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        },
+        "bowl": {
+            "location": "Microwave",
+            "quantity": "X",
+            "quantity_of_slices": "X",
+            "Cleaned": true
+        }
+    },
+    "88f8ad0d2d356270_bb95": {
+        "tomato": {
+            "location": "Sink",
+            "quantity": 2,
+            "quantity_of_slices": 2
+        },
+        "plate": {
+            "location": "Cabinet",
+            "quantity": 1,
+            "Cleaned": true
+        }
+    },
+    "2f8d482d22e56fdd_113f": {
+        "lettuce": {
+            "location": "Plate",
+            "quantity": 1,
+            "quantity_of_slices": 1
+        },
+        "knife": {
+            "location": "X",
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        },
+        "coffe makker": {
+            "location": "X",
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        },
+        "plate": {
+            "location": "Fridge",
+            "quantity": 1,
+            "quantity_of_slices": "X",
+            "Cleaned": true
+        }
+    },
+    "4ed06fe52d91780d_763d": {
+        "lettuce": {
+            "location": "Cabinet",
+            "quantity": "1",
+            "quantity_of_slices": "1"
+        },
+        "knife": {
+            "location": "Chair",
+            "quantity": "1"
+        },
+        "plate": {
+            "location": "Shelf",
+            "quantity": "1",
+            "Cleaned": false
+        },
+        "pate": {
+            "location": "Shelf",
+            "quantity": "1"
+        }
+    },
+    "dbb41344c474217f_2e3e": {
+        "bowl": {
+            "location": "Shelf",
+            "Cleaned": false
+        },
+        "tomato": {
+            "location": "X",
+            "quantity": "X",
+            "quantity_of_slices": "1"
+        },
+        "knife": {
+            "location": "Fridge",
+            "Cleaned": false
+        }
+    },
+    "35351038f6f3be3b_9c0e": {
+        "tomato": {
+            "location": "X",
+            "quantity": 1,
+            "quantity_of_slices": 1
+        },
+        "bowl": {
+            "location": "Fridge",
+            "quantity": "X",
+            "quantity_of_slices": "X"
+        },
+        "plate": {
+            "Cleaned": false
+        },
+        "mug": {
+            "Cleaned": false
+        }
+    }
+}
