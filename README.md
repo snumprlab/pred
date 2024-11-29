@@ -22,12 +22,11 @@ Download as in the original [teach repo](https://github.com/alexa/teach#download
 - Move "teach-dataset" inside "PRED+/teach-dataset"
 
 or
+
 ln -s teach-dataset PRED/EDH/teach-dataset
 ln -s teach-dataset PRED/TfD/teach-dataset
 ln -s teach-dataset PRED+/teach-dataset
 
-
-![Screen Shot 2023-04-04 at 3 39 42 PM](https://user-images.githubusercontent.com/77866067/229901724-33443e6a-ebfb-4f36-a20a-021e7cb5d1b0.png)
 
 ## Setting up this repository
 
