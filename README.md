@@ -31,7 +31,11 @@ Download and unzip from this link: https://drive.google.com/file/d/1UOBNhuaKRcG3
 
 - Move "BERT_models" inside "FILM_model/models/instructions_processed_LP"
 - Move "depth_models" inside "FILM_model/models/depth/depth_models"
-- Move "maskrcnn_alfworld" inside " FILM_model/models/segmentation" 
+- Move "maskrcnn_alfworld" inside "FILM_model/models/segmentation"
+- Move "best_model_multi.pt" inside "FILM_model/models/semantic_policy"
+- Move "weight_maskrcnn.pt" inside "PRED/EDH"
+- Move "weight_maskrcnn.pt" inside "PRED/TfD"
+- Move "weight_maskrcnn.pt" inside "PRED+"
 
 
 #### Step 3 - Installations
