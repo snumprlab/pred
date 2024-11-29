@@ -1,7 +1,6 @@
 # PRED
 
-<a href="https://openreview.net/pdf?id=cq2uB30uBM"> <b> Pre-emptive Action Revision by Environmental Feedback for Embodied Instruction Following Agents </b> </a>
-<a href="https://pred-agent.github.io/"> <b> Project Page </b> </a>
+<a href="href="https://pred-agent.github.io/"> <b> Pre-emptive Action Revision by Environmental Feedback for Embodied Instruction Following Agents </b> </a>
 <br>
 <a href="http://jinyeonkim.notion.site">Jinyeon Kim*</a>,
 <a href="https://mch0916.github.io/">Cheolhong Min*</a>,
