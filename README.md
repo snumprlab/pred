@@ -17,8 +17,15 @@ We note that our code is largely built upon <a href="https://bhkim94.github.io/p
 
 ## Downloading the dataset
 Download as in the original [teach repo](https://github.com/alexa/teach#downloading-the-dataset)
+- Move "teach-dataset" inside "PRED/EDH/teach-dataset"
+- Move "teach-dataset" inside "PRED/TfD/teach-dataset"
+- Move "teach-dataset" inside "PRED+/teach-dataset"
 
-This is where I saved it.
+or
+ln -s teach-dataset PRED/EDH/teach-dataset
+ln -s teach-dataset PRED/TfD/teach-dataset
+ln -s teach-dataset PRED+/teach-dataset
+
 
 ![Screen Shot 2023-04-04 at 3 39 42 PM](https://user-images.githubusercontent.com/77866067/229901724-33443e6a-ebfb-4f36-a20a-021e7cb5d1b0.png)
 
