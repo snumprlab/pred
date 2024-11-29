@@ -2,8 +2,8 @@
 
 <a href="https://pred-agent.github.io/"> <b> Pre-emptive Action Revision by Environmental Feedback for Embodied Instruction Following Agents </b> </a>
 <br>
-<a href="http://jinyeonkim.notion.site">Jinyeon Kim*</a>,
-<a href="https://mch0916.github.io/">Cheolhong Min*</a>,
+<a href="http://jinyeonkim.github.io/">Jinyeon Kim*</a>,
+<a href="https://mch0916.githueb.io/">Cheolhong Min*</a>,
 <a href="https://bhkim94.github.io/">Byeonghwi Kim</a>,
 <a href="http://ppolon.github.io/"> Jonghyun Choi </a>
 <br>
