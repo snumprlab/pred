@@ -55,20 +55,54 @@ pip install -r requirement.txt
 Set the variables as in the original (if you want to run pred model in TfD)
 
 ##### Run TfD in PRED
-```
-cd /home/pred/TfD/
-pip install -e .
-export DATA_DIR=/home/pred/TfD/teach-dataset
-export OUTPUT_DIR=/home/pred/TfD/output
-export IMAGE_DIR=/home/pred/TfD/img_dir
-export METRICS_FILE=/home/pred/TfD/output/metics
-```
+  ```
+  cd /home/pred/TfD/
+  pip install -e .
+  export DATA_DIR=/home/pred/TfD/teach-dataset
+  export OUTPUT_DIR=/home/pred/TfD/output
+  export IMAGE_DIR=/home/pred/TfD/img_dir
+  export METRICS_FILE=/home/pred/TfD/output/metics
+  ```
+  
+  Run command 
+  
+  ```
+  CUDA_VISIBLE_DEVICES=0 python src/teach/cli/inference.py -- tfd --data_dir $DATA_DIR   --output_dir $OUTPUT_DIR   --split valid_seen  --metrics_file $METRICS_FILE  --model_module teach.inference.FILM_teach_model --model_class FILMModel  --images_dir $IMAGE_DIR --set_dn  edh_vs_0_304 --map_pred_threshold 40 --max_episode_length 1000 --cat_pred_threshold 10  --use_bert --start_idx 0 --end_idx 304
+  ```
 
-Run command 
+##### Run EDH in PRED
+  ```
+  cd /home/pred/EDH/
+  pip install -e .
+  export DATA_DIR=/home/pred/EDH/teach-dataset
+  export OUTPUT_DIR=/home/pred/EDH/output
+  export IMAGE_DIR=/home/pred/EDH/img_dir
+  export METRICS_FILE=/home/pred/EDH/output/metics
+  ```
+  
+  Run command 
+  
+  ```
+  CUDA_VISIBLE_DEVICES=0 python src/teach/cli/inference.py --data_dir $DATA_DIR   --output_dir $OUTPUT_DIR   --split valid_seen  --metrics_file $METRICS_FILE  --model_module teach.inference.FILM_teach_model --model_class FILMModel  --images_dir $IMAGE_DIR --set_dn  edh_vs_0_304 --map_pred_threshold 40 --max_episode_length 1000 --cat_pred_threshold 10  --use_bert --start_idx 0 --end_idx 304
+  ```
 
-```
-CUDA_VISIBLE_DEVICES=0 python src/teach/cli/inference.py --data_dir $DATA_DIR   --output_dir $OUTPUT_DIR   --split valid_seen  --metrics_file $METRICS_FILE  --model_module teach.inference.FILM_teach_model --model_class FILMModel  --images_dir $IMAGE_DIR --set_dn  edh_vs_0_304 --map_pred_threshold 40 --max_episode_length 500 --cat_pred_threshold 10  --use_bert --start_idx 0 --end_idx 304
-```
+##### Run TfD in PRED+
+  ```
+  cd /home/pred+
+  pip install -e .
+  export DATA_DIR=/home/pred+/teach-dataset
+  export OUTPUT_DIR=/home/pred+/output
+  export IMAGE_DIR=/home/pred+/img_dir
+  export METRICS_FILE=/home/pred+/output/metics
+  ```
+  
+  Run command 
+  
+  ```
+  CUDA_VISIBLE_DEVICES=0 python src/teach/cli/inference.py --data_dir $DATA_DIR   --output_dir $OUTPUT_DIR   --split valid_seen  --metrics_file $METRICS_FILE  --model_module teach.inference.FILM_teach_model --model_class FILMModel  --images_dir $IMAGE_DIR --set_dn  edh_vs_0_304 --map_pred_threshold 40 --max_episode_length 1000 --cat_pred_threshold 10  --use_bert --start_idx 0 --end_idx 304
+  ```
+
+
 
 #### Step 5 - Check results 
 
@@ -80,7 +114,8 @@ Calculate success rate:
 
 ## More explanations about the commands
 This code can run both "edh" and "tfd" tasks.
-Default is EDH. To run TfD, put a "--tfd" flag. 
+Default is EDH. To run TfD, put a "--tfd" flag.
+You can chose split among "valid_seen" and "valid_unseen"
 
 ####  EDH in PRED 
 Example EDH Command:
