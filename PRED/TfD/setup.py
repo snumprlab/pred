@@ -3,15 +3,10 @@
 
 from setuptools import find_packages, setup
 
-with open("README.md", "r", encoding="utf-8") as fh:
-    long_description = fh.read()
-
 setup(
     name="TEACh",
     version="1.0",
     description="Task-driven Embodied Agents that Chat",
-    long_description=long_description,
-    long_description_content_type="text/markdown",
     url="https://github.com/alexa/TEACh",
     classifiers=[
         "Programming Language :: Python :: 3",
