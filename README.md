@@ -33,7 +33,7 @@ or
 
 #### Step 1 - git clone this repo
 #### Step 2 - Copy files from google drive 
-Download and unzip from this link: https://drive.google.com/file/d/1UOBNhuaKRcG3HxT14aRM_Fud5YH5tVCo/view?usp=share_link
+Download and unzip from this link: [https://drive.google.com/file/d/1UOBNhuaKRcG3HxT14aRM_Fud5YH5tVCo/view?usp=share_link](https://drive.google.com/file/d/18jeotqa6dvSE94ysSh_qRHtDo-xqXAxu/view?usp=sharing)
 
 - Move "BERT_models" inside "FILM_model/models/instructions_processed_LP"
 - Move "depth_models" inside "FILM_model/models/depth/depth_models"
