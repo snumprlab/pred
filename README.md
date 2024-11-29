@@ -46,7 +46,7 @@ Download and unzip from this link: [https://drive.google.com/file/d/1UOBNhuaKRcG
 
 #### Step 3 - Installations
 ```
-conda create pred 
+conda create --name pred python=3.7 
 conda activate pred
 
 pip install transformers==4.9.2 && pip install torch==1.8.0+cu111 torchvision==0.9.0+cu111 torchaudio==0.8.0 -f https://download.pytorch.org/whl/torch_stable.html && python -m pip install -U detectron2 -f \
