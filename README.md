@@ -70,6 +70,22 @@ Set the variables as in the original (if you want to run pred model in TfD)
   CUDA_VISIBLE_DEVICES=0 python src/teach/cli/inference.py -- tfd --data_dir $DATA_DIR   --output_dir $OUTPUT_DIR   --split valid_seen  --metrics_file $METRICS_FILE  --model_module teach.inference.FILM_teach_model --model_class FILMModel  --images_dir $IMAGE_DIR --set_dn  edh_vs_0_304 --map_pred_threshold 40 --max_episode_length 1000 --cat_pred_threshold 10  --use_bert --start_idx 0 --end_idx 304
   ```
 
+
+
+
+#### Step 5 - Check results 
+
+Check results in "results/analyze_recs". Pickles are generated for each command. 
+
+Calculate success rate:
+![Screen Shot 2023-04-04 at 3 57 10 PM](https://user-images.githubusercontent.com/77866067/229905790-dc4b2b11-48bf-4478-8bbc-035cfe5f38e1.png)
+
+
+## More explanations about the commands
+This code can run both "edh" and "tfd" tasks.
+Default is EDH. To run TfD, put a "--tfd" flag.
+You can chose split among "valid_seen" and "valid_unseen"
+
 ##### Run EDH in PRED
   ```
   cd /home/pred/EDH/
@@ -101,51 +117,6 @@ Set the variables as in the original (if you want to run pred model in TfD)
   ```
   CUDA_VISIBLE_DEVICES=0 python src/teach/cli/inference.py --data_dir $DATA_DIR   --output_dir $OUTPUT_DIR   --split valid_seen  --metrics_file $METRICS_FILE  --model_module teach.inference.FILM_teach_model --model_class FILMModel  --images_dir $IMAGE_DIR --set_dn  edh_vs_0_304 --map_pred_threshold 40 --max_episode_length 1000 --cat_pred_threshold 10  --use_bert --start_idx 0 --end_idx 304
   ```
-
-
-
-#### Step 5 - Check results 
-
-Check results in "results/analyze_recs". Pickles are generated for each command. 
-
-Calculate success rate:
-![Screen Shot 2023-04-04 at 3 57 10 PM](https://user-images.githubusercontent.com/77866067/229905790-dc4b2b11-48bf-4478-8bbc-035cfe5f38e1.png)
-
-
-## More explanations about the commands
-This code can run both "edh" and "tfd" tasks.
-Default is EDH. To run TfD, put a "--tfd" flag.
-You can chose split among "valid_seen" and "valid_unseen"
-
-####  EDH in PRED 
-Example EDH Command:
-
-```
-CUDA_VISIBLE_DEVICES=0 python pred/EDH/src/teach/cli/inference.py --EDH --data_dir $DATA_DIR   --output_dir $OUTPUT_DIR   --split valid_seen  --metrics_file $METRICS_FILE  --model_module teach.inference.FILM_teach_model --model_class FILMModel  --images_dir $IMAGE_DIR --set_dn  may24_edh_vs_0_304 --map_pred_threshold 40 --max_episode_length 500 --cat_pred_threshold 10  --use_bert --start_idx 0 --end_idx 304
-```
-
-Flags:
-- set_dn: The name of the saved pickle (in results/analysis_recs)
-- start_idx: start of the task index
-- end_idx: end of the task index
-
-#### TfD in PRED
-Example TfD Command:
-
-```
-CUDA_VISIBLE_DEVICES=0 python pred/TfD/src/teach/cli/inference.py --tfd --data_dir $DATA_DIR   --output_dir $OUTPUT_DIR   --split valid_unseen  --metrics_file $METRICS_FILE  --model_module teach.inference.FILM_teach_model --model_class FILMModel  --images_dir $IMAGE_DIR --set_dn tfd_vus_0_77 --map_pred_threshold 40 --max_episode_length 500 --cat_pred_threshold 10 --tfd --use_bert --start_idx 0 --end_idx 77
-```
-Default is EDH. To run TfD, put a "--tfd" flag. 
-
-
-#### TfD in PRED+
-Example TfD Command:
-
-```
-CUDA_VISIBLE_DEVICES=0 python pred+/TfD/src/teach/cli/inference.py --tfd --data_dir $DATA_DIR   --output_dir $OUTPUT_DIR   --split valid_unseen  --metrics_file $METRICS_FILE  --model_module teach.inference.FILM_teach_model --model_class FILMModel  --images_dir $IMAGE_DIR --set_dn tfd_vus_0_77 --map_pred_threshold 40 --max_episode_length 500 --cat_pred_threshold 10 --tfd --use_bert --start_idx 0 --end_idx 77
-```
-Default is EDH. To run TfD, put a "--tfd" flag. 
-
 
 
 ## License
