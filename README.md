@@ -107,7 +107,7 @@ You can chose split among "valid_seen" and "valid_unseen"
   ```
 
 ##### Run TfD in PRED+
-  Add openai.api_key inside "PRED+/FILM_model/ask_w_example.py"
+  Add personal "openai.api_key" inside "PRED+/FILM_model/ask_w_example.py"
 
   and 
 
