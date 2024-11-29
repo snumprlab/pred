@@ -53,8 +53,12 @@ pip install -r requirement.txt
 
 #### Step 4 - Run command 
 Set the variables as in the original (if you want to run pred model in TfD)
+
+##### Run TfD in PRED
 ```
-export DATA_DIR=/home/pred/TfD/TEACH_DATA
+cd /home/pred/TfD/
+pip install -e .
+export DATA_DIR=/home/pred/TfD/teach-dataset
 export OUTPUT_DIR=/home/pred/TfD/output
 export IMAGE_DIR=/home/pred/TfD/img_dir
 export METRICS_FILE=/home/pred/TfD/output/metics
