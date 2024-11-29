@@ -76,7 +76,7 @@ Set the variables as in the original (if you want to run pred model in TfD)
   Run command 
   
   ```
-  CUDA_VISIBLE_DEVICES=0 python src/teach/cli/inference.py -- tfd --data_dir $DATA_DIR   --output_dir $OUTPUT_DIR   --split valid_seen  --metrics_file $METRICS_FILE  --model_module teach.inference.FILM_teach_model --model_class FILMModel  --images_dir $IMAGE_DIR --set_dn  edh_vs_0_304 --map_pred_threshold 40 --max_episode_length 1000 --cat_pred_threshold 10  --use_bert --start_idx 0 --end_idx 304
+  CUDA_VISIBLE_DEVICES=0 python src/teach/cli/inference.py --tfd --data_dir $DATA_DIR   --output_dir $OUTPUT_DIR   --split valid_seen  --metrics_file $METRICS_FILE  --model_module teach.inference.FILM_teach_model --model_class FILMModel  --images_dir $IMAGE_DIR --set_dn  edh_vs_0_304 --map_pred_threshold 40 --max_episode_length 1000 --cat_pred_threshold 10  --use_bert --start_idx 0 --end_idx 304
   ```
 
 Flags:
@@ -111,7 +111,7 @@ You can chose split among "valid_seen" and "valid_unseen"
   Run command 
   
   ```
-  CUDA_VISIBLE_DEVICES=0 python src/teach/cli/inference.py --data_dir $DATA_DIR   --output_dir $OUTPUT_DIR   --split valid_seen  --metrics_file $METRICS_FILE  --model_module teach.inference.FILM_teach_model --model_class FILMModel  --images_dir $IMAGE_DIR --set_dn  edh_vs_0_304 --map_pred_threshold 40 --max_episode_length 1000 --cat_pred_threshold 10  --use_bert --start_idx 0 --end_idx 304
+  CUDA_VISIBLE_DEVICES=0 python src/teach/cli/inference.py --edh --data_dir $DATA_DIR   --output_dir $OUTPUT_DIR   --split valid_seen  --metrics_file $METRICS_FILE  --model_module teach.inference.FILM_teach_model --model_class FILMModel  --images_dir $IMAGE_DIR --set_dn  edh_vs_0_304 --map_pred_threshold 40 --max_episode_length 1000 --cat_pred_threshold 10  --use_bert --start_idx 0 --end_idx 304
   ```
 
 ##### Run TfD in PRED+
@@ -131,7 +131,7 @@ You can chose split among "valid_seen" and "valid_unseen"
   Run command 
   
   ```
-  CUDA_VISIBLE_DEVICES=0 python src/teach/cli/inference.py --data_dir $DATA_DIR   --output_dir $OUTPUT_DIR   --split valid_seen  --metrics_file $METRICS_FILE  --model_module teach.inference.FILM_teach_model --model_class FILMModel  --images_dir $IMAGE_DIR --set_dn  edh_vs_0_304 --map_pred_threshold 40 --max_episode_length 1000 --cat_pred_threshold 10  --use_bert --start_idx 0 --end_idx 304
+  CUDA_VISIBLE_DEVICES=0 python src/teach/cli/inference.py --tfd --data_dir $DATA_DIR   --output_dir $OUTPUT_DIR   --split valid_seen  --metrics_file $METRICS_FILE  --model_module teach.inference.FILM_teach_model --model_class FILMModel  --images_dir $IMAGE_DIR --set_dn  edh_vs_0_304 --map_pred_threshold 40 --max_episode_length 1000 --cat_pred_threshold 10  --use_bert --start_idx 0 --end_idx 304
   ```
 
 
