@@ -23,9 +23,9 @@ Download as in the original [teach repo](https://github.com/alexa/teach#download
 
 or
 
-ln -s teach-dataset PRED/EDH/teach-dataset
-ln -s teach-dataset PRED/TfD/teach-dataset
-ln -s teach-dataset PRED+/teach-dataset
+- ln -s teach-dataset PRED/EDH/teach-dataset
+- ln -s teach-dataset PRED/TfD/teach-dataset
+- ln -s teach-dataset PRED+/teach-dataset
 
 
 ## Setting up this repository
