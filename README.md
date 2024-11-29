@@ -9,7 +9,9 @@
 <br>
 <a href="https://www.corl.org/"> CoRL 2024 </a>
 
-
+<p align="center">
+  <img src="Teaser.png">
+</p>
 
 **PRED** (**P**re-emptive action **R**evision by **E**nvironmental fee**D**back) allows embodied agents to revise their action in response to perceived environmental status “before they make mistakes.”
 
