@@ -15,7 +15,7 @@
 
 **PRED** (**P**re-emptive action **R**evision by **E**nvironmental fee**D**back) allows embodied agents to revise their action in response to perceived environmental status “before they make mistakes.”
 
-We acknoledge that our code is largely built upon <a href="https://bhkim94.github.io/projects/CAPEAM/">CAPEAM</a>.
+We acknowledge that our code is largely built upon <a href="https://bhkim94.github.io/projects/CAPEAM/">CAPEAM</a>.
 
 ## Code
 
